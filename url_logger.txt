@@ -1,0 +1,1965 @@
+604|3-Heights(TM) PDF Validator|http://www.pdf-tools.com/pdf/pdf-validator-pdfa-validate-iso.aspx?l=en-us|200
+604|3-Heights(TM) PDF Validator|http://www.pdf-tools.com/pdf/pdf-validator-pdfa-validate-iso.aspx|200
+604|3-Heights(TM) PDF Validator|http://www.pdf-tools.com/pdf/pdf-validator-pdfa-validate-iso.aspx|200
+604|3-Heights(TM) PDF Validator|http://www.pdf-tools.com/pdf/pdf-validator-pdfa-validate-iso.aspx?l=en-us|200
+245|7-Zip|http://en.wikipedia.org/wiki/ISO_image|200
+245|7-Zip|https://www.openhub.net/projects/sevenzip/widgets/project_basic_stats?format=js|200
+245|7-Zip|http://www.7-zip.org/|200
+245|7-Zip|http://www.sourceforge.net/projects/sevenzip/editorial/?source=psp|200
+245|7-Zip|http://www.7-zip.org/|200
+245|7-Zip|http://www.sourceforge.net/projects/sevenzip/editorial/?source=psp|200
+245|7-Zip|http://en.wikipedia.org/wiki/ISO_image|200
+1252|ACCDB|http://fileformats.archiveteam.org/wiki/Ext:accdb|200
+1252|ACCDB|https://www.wikidata.org/wiki/Q1931564|200
+124|ACE (Audit Control Environment)|https://wiki.umiacs.umd.edu/adapt/index.php/Ace:Main|200
+124|ACE (Audit Control Environment)|https://groups.google.com/forum/#!topic/digital-curation/ZT21Ac1aLQQ|200
+124|ACE (Audit Control Environment)|https://www.openhub.net/projects/ace/widgets/project_basic_stats?format=js|200
+755|ADC Test|http://www.digitizationguidelines.gov/guidelines/digitize-audioperf.html|200
+755|ADC Test|http://weareavp.com|200
+755|ADC Test|https://www.weareavp.com/products/adctest/|200
+755|ADC Test|http://www.digitizationguidelines.gov/|200
+755|ADC Test|https://blogs.loc.gov/thesignal/2021/09/fadgi-adctest|200
+755|ADC Test|https://github.com/WeAreAVP/ADCTest|200
+219|ADIGRES|http://sourceforge.net/projects/adigres|200
+219|ADIGRES|https://www.openhub.net/projects/p_d_7823/widgets/project_basic_stats?format=js|200
+139|AFFLIB|https://github.com/simsong/AFFLIBv3|200
+139|AFFLIB|https://www.openhub.net/projects/AFFLIB/widgets/project_basic_stats?format=js|200
+167|AFF Open Source Computer Forensics Software|https://github.com/simsong/AFFLIBv3|200
+167|AFF Open Source Computer Forensics Software|https://www.openhub.net/projects/AFF%20Open%20Source%20Computer%20Forensics%20Software/widgets/project_basic_stats?format=js|200
+1263|ALTO (Analyzed Layout and Text Object)|https://www.loc.gov/standards/alto/techcenter/use-with-mets.html|200
+1263|ALTO (Analyzed Layout and Text Object)|https://www.wikidata.org/wiki/Q2819247|200
+1263|ALTO (Analyzed Layout and Text Object)|https://www.loc.gov/standards/alto/|200
+1263|ALTO (Analyzed Layout and Text Object)|https://github.com/altoxml|200
+925|ANTS (Archives Network Transfer System)|https://github.com/UAlbanyArchives/ants|200
+671|AOR (Assessing Organisational Readiness)|http://www.tandfonline.com/doi/abs/10.1080/0194262X.2012.648098#.VVyWPEbmVCA|200
+671|AOR (Assessing Organisational Readiness)|http://aida.jiscinvolve.org/wp/|200
+1245|ARC (Internet Archive)|http://fileformats.archiveteam.org/wiki/ARC_(Internet_Archive)|200
+1245|ARC (Internet Archive)|https://www.wikidata.org/wiki/Q27824058|200
+936|ARK plugin for Omeka|https://confluence.ucop.edu/display/Curation/NOID|200
+936|ARK plugin for Omeka|https://patrimoine.mines-paristech.fr/|200
+936|ARK plugin for Omeka|https://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html|Bad response - worth checking
+936|ARK plugin for Omeka|https://github.com/Daniel-KM/Noid4Php|200
+936|ARK plugin for Omeka|http://www.mines-paristech.fr/|200
+936|ARK plugin for Omeka|https://github.com/Daniel-KM/Omeka-plugin-ArkAndNoid/releases|200
+936|ARK plugin for Omeka|https://github.com/Daniel-KM/Omeka-plugin-ArkAndNoid|200
+948|ATOM (Access to Memory)|https://www.accesstomemory.org/docs/latest/|200
+948|ATOM (Access to Memory)|https://wiki.accesstomemory.org/Resources/User_forum|200
+948|ATOM (Access to Memory)|https://wiki.accesstomemory.org/Resources/CSV_templates|200
+948|ATOM (Access to Memory)|https://www.accesstomemoryfoundation.org|200
+948|ATOM (Access to Memory)|https://www.artefactual.com/wp-content/uploads/2018/10/AtoM-information-sheet-final.pdf|200
+948|ATOM (Access to Memory)|https://www.29.png/150px-ATOM_%28Access_to_Memory%29.png|Bad response - worth checking
+948|ATOM (Access to Memory)|https://demo.accesstomemory.org/|200
+948|ATOM (Access to Memory)|https://wiki.accesstomemory.org/Community/Users|200
+948|ATOM (Access to Memory)|https://www.slideshare.net/accesstomemory/atom-and-vagrant-installing-and-configuring-the-atom-vagrant-box-for-local-testing-and-development|200
+948|ATOM (Access to Memory)|https://www.accesstomemory.org/docs/latest/admin-manual/installation/requirements/|200
+948|ATOM (Access to Memory)|https://www.accesstomemory.org/|200
+948|ATOM (Access to Memory)|https://www.accesstomemory.org/docs/latest/dev-manual/env/vagrant/|200
+948|ATOM (Access to Memory)|https://www.29.png/100px-ATOM_%28Access_to_Memory%29.png|Bad response - worth checking
+948|ATOM (Access to Memory)|https://www.artefactual.com|200
+948|ATOM (Access to Memory)|http://coptr.digipres.org/Archivematica|200
+948|ATOM (Access to Memory)|https://www.29.png/200px-ATOM_%28Access_to_Memory%29.png|Bad response - worth checking
+948|ATOM (Access to Memory)|https://www.artefactual.com/clients/|200
+948|ATOM (Access to Memory)|https://www.artefactual.com/wp-content/uploads/2018/10/AtoM-information-summary-final.pdf|200
+457|AVP Fixity|https://groups.google.com/forum/#!forum/fixity-users|200
+457|AVP Fixity|https://www.weareavp.com/products/fixity/|200
+457|AVP Fixity|http://digital-archiving.blogspot.com/2018/07/checksum-or-fixity-which-tool-is-for-me.html|404
+457|AVP Fixity|https://www.weareavp.com/avp-webinar-series-fixity/|200
+457|AVP Fixity|http://www.github.com/avpreserve/fixity|200
+457|AVP Fixity|http://weareavp.com|200
+743|Aaru Data Preservation Suite|https://github.com/aaru-dps/Aaru|200
+743|Aaru Data Preservation Suite|https://www.betaarchive.com/forum/viewtopic.php?f=72&t=36078|200
+743|Aaru Data Preservation Suite|https://github.com/claunia/DiscImageChef/releases.atom|200
+743|Aaru Data Preservation Suite|https://github.com/claunia/DiscImageChef/commits/master.atom|404
+743|Aaru Data Preservation Suite|https://www.betaarchive.com/forum/viewtopic.php?f=72&amp;t=36078|404
+743|Aaru Data Preservation Suite|http://github.com/claunia/DiscImageChef/commits|200
+1271|About COPTR|http://wiki.opf-labs.org/display/SPR|200
+1184|About COW|http://coptr.digipres.org/Main_Page|200
+1184|About COW|http://www.ipres2016.ch/frontend/index.php?page_id=2833#WS4|200
+42|AccessData Decryption Tools|http://accessdata.com/products/|404
+42|AccessData Decryption Tools|https://www.openhub.net/projects/AccessData%20Decryption%20Tools/widgets/project_basic_stats?format=js|200
+77|AccessToSiard|https://sourceforge.net/projects/accesstosiard|200
+77|AccessToSiard|http://www.ech.ch/vechweb/page?p=dossier&amp;documentNumber=eCH-0165|200
+77|AccessToSiard|http://sourceforge.net/projects/accesstosiard/|200
+77|AccessToSiard|http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0165|200
+77|AccessToSiard|http://sourceforge.net/api/file/index/project-id/710641/mtime/desc/limit/20/rss|200
+77|AccessToSiard|http://sourceforge.net/export/rss2_keepsake.php?group_id=710641|200
+77|AccessToSiard|https://www.openhub.net/projects/AccessToSiard/widgets/project_basic_stats?format=js|200
+973|Adobe Photoshop Elements|http://www.adobe.com/de/products/photoshop-elements.html|200
+973|Adobe Photoshop Elements|https://feedback.photoshop.com/photoshop_family/topics/elements-organizer-2019-still-no-face-tags-in-metadata|200
+973|Adobe Photoshop Elements|https://digitalscrapbookinghq.com/file-write-metadata-in-photoshop-elements-organizer/|406
+1284|Aid4Mail|https://www.aid4mail.com/|200
+977|AllDup|http://www.allsync.biz/phpBB/viewforum.php?f=16|200
+977|AllDup|http://www.allsync.biz/alldup_help/alldup.php|200
+319|Amazon Cloud|https://www.openhub.net/projects/Amazon%20Cloud/widgets/project_basic_stats?format=js|200
+319|Amazon Cloud|https://www.amazon.com/clouddrive|503
+252|Antiword|https://www.openhub.net/projects/Antiword/widgets/project_basic_stats?format=js|200
+252|Antiword|http://www.winfield.demon.nl/|200
+196|Apache PDFBox|https://pdfbox.apache.org/cookbook/pdfavalidation.html|404
+196|Apache PDFBox|http://openplanetsfoundation.org/blogs/2014-01-27-identification-pdf-preservation-risks-analysis-govdocs-selected-corpus|200
+196|Apache PDFBox|http://projects.apache.org/feeds/rss/pdfbox.xml|404
+196|Apache PDFBox|https://issues.apache.org/jira/browse/PDFBOX-5292|200
+196|Apache PDFBox|http://openplanetsfoundation.org/blogs/2013-03-15-pdf-eh-another-hackathon-tale|200
+196|Apache PDFBox|http://www.openplanetsfoundation.org/blogs/2012-12-19-identification-pdf-preservation-risks-apache-preflight-first-impression|200
+196|Apache PDFBox|http://wiki.opf-labs.org/display/AQuA/Detect%2C+extract+and+analyse+embedded+objects+in+PDFs|200
+196|Apache PDFBox|https://issues.apache.org/jira/browse/PDFBOX-5293|200
+196|Apache PDFBox|http://www.openplanetsfoundation.org/blogs/2013-07-25-identification-pdf-preservation-risks-sequel|200
+196|Apache PDFBox|http://pdfbox.apache.org/mailinglists.html|200
+196|Apache PDFBox|http://wiki.opf-labs.org/display/AQuA/Detect,+extract+and+analyse+embedded+objects+in+PDFs|200
+196|Apache PDFBox|http://pdfbox.apache.org/|200
+196|Apache PDFBox|https://issues.apache.org/jira/browse/PDFBOX-5294|200
+196|Apache PDFBox|https://issues.apache.org/jira/browse/PDFBOX-5291|200
+196|Apache PDFBox|https://issues.apache.org/jira/browse/PDFBOX-5295|200
+196|Apache PDFBox|https://www.openhub.net/projects/pdfbox/widgets/project_basic_stats?format=js|200
+99|Apache POI - the Java API for Microsoft Documents|https://www.openhub.net/projects/poi/widgets/project_basic_stats?format=js|200
+99|Apache POI - the Java API for Microsoft Documents|http://poi.apache.org/|200
+312|Apache Tika|http://tika.apache.org/|200
+312|Apache Tika|https://www.issues.apache.org/jira/secure/ViewProfile.jspa?name=slava.koptilin|Bad response - worth checking
+312|Apache Tika|http://britishlibrary.typepad.co.uk/webarchive/2014/07/how-much-of-the-uk-html-is-valid.html|200
+312|Apache Tika|https://www.issues.apache.org/jira/secure/ViewProfile.jspa?name=kszucskszucshttp://activitystrea.ms/schema/1.0/person|Bad response - worth checking
+312|Apache Tika|https://www.issues.apache.org/jira/secure/ViewProfile.jspa?name=githubbot|Bad response - worth checking
+312|Apache Tika|http://tika.apache.org/1.9/formats.html|200
+312|Apache Tika|https://www.issues.apache.org/jira/secure/ViewProfile.jspa?name=githubbotgithubbothttp://activitystrea.ms/schema/1.0/person|Bad response - worth checking
+312|Apache Tika|https://www.openhub.net/projects/tika/widgets/project_basic_stats?format=js|200
+312|Apache Tika|https://www.issues.apache.org/jira/secure/ViewProfile.jspa?name=kszucs|Bad response - worth checking
+312|Apache Tika|http://projects.apache.org/feeds/rss/tika.xml|404
+312|Apache Tika|http://wiki.opf-labs.org/dosearchsite.action?queryString=Tika&amp;where=conf_all&amp;type=page&amp;lastModified=&amp;contributor=&amp;contributorUsername=|200
+312|Apache Tika|http://wiki.opf-labs.org/dosearchsite.action?queryString=Tika&where=conf_all&type=page&lastModified=&contributor=&contributorUsername=|200
+312|Apache Tika|https://www.issues.apache.org/jira/secure/ViewProfile.jspa?name=slava.koptilinslava.koptilinhttp://activitystrea.ms/schema/1.0/person|Bad response - worth checking
+989|ArchiFiltre|https://archifiltre.fabrique.social.gouv.fr/|200
+989|ArchiFiltre|https://github.com/SocialGouv/archifiltre/wiki/Wiki-Archifiltre|200
+320|Archive-It|https://www.openhub.net/projects/Archive-It/widgets/project_basic_stats?format=js|200
+320|Archive-It|http://www.archive-it.org/|200
+1018|Archive::BagIt|https://metacpan.org/pod/Archive::BagIt|200
+1018|Archive::BagIt|https://rt.cpan.org/Public/Dist/Display.html?Name=Archive-BagIt|200
+1018|Archive::BagIt|http://matrix.cpantesters.org/?dist=Archive-BagIt+0.066|200
+1018|Archive::BagIt|https://metacpan.org/feed/distribution/Archive-BagIt|200
+1018|Archive::BagIt|https://datatracker.ietf.org/doc/rfc8493/?include_text=1|200
+693|ArchiveFacebook|https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/|404
+693|ArchiveFacebook|https://github.com/machawk1/archivefacebook/commits/master.atom|200
+693|ArchiveFacebook|http://groups.google.com/group/archivefacebook?hl=en|200
+693|ArchiveFacebook|https://www.mozilla.org/en-US/firefox/new/|200
+693|ArchiveFacebook|http://github.com/machawk1/archivefacebook/commits|200
+693|ArchiveFacebook|http://www.cs.odu.edu/~mkelly/|403
+693|ArchiveFacebook|https://github.com/machawk1/archivefacebook|200
+693|ArchiveFacebook|http://www.cs.odu.edu/~cpi/old/cpi-f2004/aos/carlton.htm|200
+693|ArchiveFacebook|https://www.mozilla.org/en-US/MPL/1.1/|200
+707|ArchiveReady (Website archivability evaluation tool)|https://wwik-prod.dla-marbach.de/line/images/9/9b/ArchiveReady.pdf|200
+707|ArchiveReady (Website archivability evaluation tool)|http://archiveready.com/|200
+30|Archon|https://www.openhub.net/projects/Archon/widgets/project_basic_stats?format=js|200
+30|Archon|http://www.archon.org/download.php|200
+943|Ark service|https://github.com/rjacobson16/ark_service|200
+685|Artivity|http://wiki.dpconline.org/index.php?title=Artivity|200
+685|Artivity|http://www.ligatus.org.uk/project/artivity|200
+510|AsTiffTagViewer|http://www.awaresystems.be/imaging/tiff/astifftagviewer.html|200
+510|AsTiffTagViewer|http://www.kost-ceco.ch/cms/index.php?preservation_tiff_de|200
+969|Audacity|http://audacityteam.org/|200
+78|Audio/Video to WAV Converter|https://www.openhub.net/projects/Audio/Video%20to%20WAV%20Converter/widgets/project_basic_stats?format=js|404
+78|Audio/Video to WAV Converter|http://www.archive.org/details/tucows_369301_Audio_Video_To_Wav_Converter|200
+1301|Autopsy Digital Forensics|https://www.autopsy.com/blog/|403
+1301|Autopsy Digital Forensics|https://www.Autopsy.png/150px-Autopsy.png|Bad response - worth checking
+1301|Autopsy Digital Forensics|https://www.autopsy.com/about/use-cases/|403
+1301|Autopsy Digital Forensics|https://www.autopsy.com/community/|403
+1301|Autopsy Digital Forensics|https://www.autopsy.com/about/|403
+1301|Autopsy Digital Forensics|https://www.Autopsy.png/100px-Autopsy.png|Bad response - worth checking
+1301|Autopsy Digital Forensics|https://github.com/sleuthkit/autopsy|200
+1301|Autopsy Digital Forensics|https://lists.sourceforge.net/lists/listinfo/sleuthkit-announce|200
+1301|Autopsy Digital Forensics|https://www.Autopsy.png/200px-Autopsy.png|Bad response - worth checking
+140|Autopsy Forensic Browser|http://www.sleuthkit.org/autopsy/index.php|200
+140|Autopsy Forensic Browser|https://www.openhub.net/projects/Autopsy%20Forensic%20Browser/widgets/project_basic_stats?format=js|200
+753|Avcc|https://groups.google.com/d/forum/avcc-users|200
+753|Avcc|https://www.weareavp.com/products/avcc/|200
+753|Avcc|http://www.weareavp.com|200
+753|Avcc|http://www.gnu.org/licenses/agpl-3.0.txt|200
+753|Avcc|http://weareavp.com|200
+753|Avcc|https://github.com/WeAreAVP/avcc|200
+753|Avcc|https://vimeo.com/201337786|200
+753|Avcc|http://creativecommons.org/licenses/by-nc-nd/4.0/|200
+109|BAT: BnfArcTools|http://bibnum.bnf.fr/downloads/bat/|404
+109|BAT: BnfArcTools|https://www.openhub.net/projects/BAT%3A%20BnfArcTools/widgets/project_basic_stats?format=js|200
+258|BCWipe|http://www.jetico.com/wiping-bcwipe/|200
+258|BCWipe|https://www.openhub.net/projects/BCWipe/widgets/project_basic_stats?format=js|200
+134|BIL (BagIt Library)|https://www.rfc-editor.org/info/rfc8493|200
+134|BIL (BagIt Library)|http://sourceforge.net/projects/loc-xferutils/|200
+134|BIL (BagIt Library)|https://www.openhub.net/projects/BagIt%20Library%20%28BIL%29/widgets/project_basic_stats?format=js|200
+1249|BMP|http://fileformats.archiveteam.org/wiki/BMP|200
+1249|BMP|https://www.wikidata.org/wiki/Q192869|200
+211|BWF MetaEdit|https://sourceforge.net/p/bwfmetaedit/bugs/33/|200
+211|BWF MetaEdit|https://www.BWFmetaEdit.png/100px-BWFmetaEdit.png|Bad response - worth checking
+211|BWF MetaEdit|http://bwfmetaedit.sourceforge.net/validation_rules_help.html|200
+211|BWF MetaEdit|https://www.BWFmetaEdit.png/200px-BWFmetaEdit.png|Bad response - worth checking
+211|BWF MetaEdit|https://sourceforge.net/p/bwfmetaedit/bugs/27/?limit=25#ed26|200
+211|BWF MetaEdit|https://sourceforge.net/p/bwfmetaedit/bugs/13/?limit=25#1bca|200
+211|BWF MetaEdit|https://sourceforge.net/p/bwfmetaedit/bugs/18/?limit=25#8903|200
+211|BWF MetaEdit|http://www.digitizationguidelines.gov/audio-visual/documents/help_home.html|200
+211|BWF MetaEdit|http://sourceforge.net/projects/bwfmetaedit/|200
+211|BWF MetaEdit|http://www.avpreserve.com/wp-content/uploads/2014/04/EmbeddedMetadata.pdf|200
+211|BWF MetaEdit|http://practicaltechnologyforarchives.org/issue2_duryee_lyons/|200
+211|BWF MetaEdit|https://sourceforge.net/p/bwfmetaedit/bugs/34/|200
+211|BWF MetaEdit|https://www.BWFmetaEdit.png/150px-BWFmetaEdit.png|Bad response - worth checking
+211|BWF MetaEdit|http://weareavp.com|200
+211|BWF MetaEdit|https://sourceforge.net/projects/bwfmetaedit/rss?path=/|200
+211|BWF MetaEdit|https://tutorials.ischool.utexas.edu/index.php/BWF_MetaEdit|Bad response - worth checking
+655|Bad Peggy|https://www.coderslagoon.com/#/product/badpeggy|200
+655|Bad Peggy|https://www.BadPeggy.png/100px-BadPeggy.png|Bad response - worth checking
+655|Bad Peggy|http://openpreservation.org/blog/2016/11/29/jpegvalidation/|200
+655|Bad Peggy|https://www.BadPeggy.png/200px-BadPeggy.png|Bad response - worth checking
+655|Bad Peggy|https://www.BadPeggy.png/150px-BadPeggy.png|Bad response - worth checking
+655|Bad Peggy|https://www.coderslagoon.com/files/badpeggy20_src.tar.xz|404
+135|BagIt Transfer Utilities|http://sourceforge.net/projects/loc-xferutils/|200
+135|BagIt Transfer Utilities|https://www.openhub.net/projects/BagIt%20Transfer%20Utilities/widgets/project_basic_stats?format=js|200
+125|Bagger|http://www.linfo.org/bsdlicense.html|200
+125|Bagger|http://sourceforge.net/projects/loc-xferutils/|200
+125|Bagger|https://github.com/LibraryOfCongress/bagger|200
+125|Bagger|https://www.openhub.net/projects/Bagger/widgets/project_basic_stats?format=js|200
+125|Bagger|http://sourceforge.net/api/file/index/project-id/247203/mtime/desc/limit/20/rss|200
+125|Bagger|http://www.digitalpreservation.gov/documents/bagitspec.pdf|200
+757|BitCurator|https://www.openhub.net/projects/BitCurator/widgets/project_basic_stats?format=js|200
+757|BitCurator|https://confluence.educopia.org/display/BC/Filing+an+issue+in+JIRA|200
+757|BitCurator|https://github.com/bitcurator/commits/master.atom|404
+757|BitCurator|https://drum.lib.umd.edu/bitstream/handle/1903/18486/S6-PraelWickner.pdf|200
+757|BitCurator|https://bitcurator.net/bitcurator/|200
+757|BitCurator|https://bitcuratorconsortium.org/|403
+757|BitCurator|http://bitcurator.net/|200
+757|BitCurator|https://doi.org/10.2218/ijdc.v9i2.325|200
+757|BitCurator|https://confluence.educopia.org/display/BC/Release+Process+and+Schedule|200
+757|BitCurator|https://bitcuratorconsortium.org/workflows|403
+536|Bless|http://home.gna.org/bless/|504
+536|Bless|https://www.openhub.net/projects/bless/widgets/project_basic_stats?format=js|200
+718|Brunnhilde|http://github.com/tw4l/brunnhilde/commits|200
+718|Brunnhilde|https://github.com/tw4l/brunnhilde|200
+718|Brunnhilde|https://github.com/tw4l/brunnhilde-GUI|200
+665|Bulk Rename Utility|http://www.bulkrenameutility.co.uk|200
+35|C3PO|https://github.com/peshkira/c3po|200
+35|C3PO|https://github.com/peshkira|200
+35|C3PO|https://github.com/datascience/c3po/wiki|200
+35|C3PO|http://www-dev.openplanetsfoundation.org/aggregator/sources/3?page=6|404
+35|C3PO|https://github.com/peshkira/c3po/wiki/Usage-Guide|200
+35|C3PO|https://myvoyagethroughtime.wordpress.com/2013/06/09/c3po-and-digital-curation/|200
+35|C3PO|http://ifs.tuwien.ac.at/imp/c3po|200
+35|C3PO|http://www.slideshare.net/SCAPEproject/content-profiling-and-c3po|200
+35|C3PO|https://github.com/datascience/c3po|200
+35|C3PO|http://openpreservation.org/blog/2017/05/17/preservation-impact-assessments-how-preservation-tools-support-naneths-connection-projects/|200
+366|CARDIO|https://www.openhub.net/projects/CARDIO/widgets/project_basic_stats?format=js|200
+366|CARDIO|https://www.openhub.net/projects/CARDIO/widgets/project_basic_stats?format=js|200
+366|CARDIO|http://cardio.dcc.ac.uk|200
+267|CASTOR (CERN Advanced STORage manager)|https://www.openhub.net/projects/CERN%20Advanced%20STORage%20manager%20%28CASTOR%29/widgets/project_basic_stats?format=js|200
+267|CASTOR (CERN Advanced STORage manager)|http://castor.web.cern.ch/|200
+259|CCleaner|http://www.piriform.com/ccleaner|200
+259|CCleaner|https://www.openhub.net/projects/CCleaner/widgets/project_basic_stats?format=js|200
+168|CDRDAO (CDR Disk At Once)|http://openplanetsfoundation.org/blogs/2013-11-19-establishing-workflow-model-audio-cd-preservation|200
+168|CDRDAO (CDR Disk At Once)|https://github.com/openplanets/arcCD|200
+168|CDRDAO (CDR Disk At Once)|http://cdrdao.sourceforge.net/|200
+168|CDRDAO (CDR Disk At Once)|https://www.openhub.net/projects/cdrdao/widgets/project_basic_stats?format=js|200
+80|CDS Convert|https://www.openhub.net/projects/CDS%20Convert/widgets/project_basic_stats?format=js|200
+80|CDS Convert|http://cdsware.cern.ch/convert/index.html|Bad response - worth checking
+1302|CGM|http://fileformats.archiveteam.org/wiki/CGM|200
+1302|CGM|https://www.wikidata.org/wiki/Q1122267|200
+81|CHRONOS|https://www.openhub.net/projects/CHRONOS/widgets/project_basic_stats?format=js|200
+81|CHRONOS|http://www.csp-sw.de/en/inhalt.php?kategorie=c273_Functions&amp;position=0|404
+81|CHRONOS|http://www.csp-sw.de/en/inhalt.php?kategorie=c355_Solutions_CHRONOS_Overview_of_versions|404
+81|CHRONOS|http://www.csp-sw.de/en/inhalt.php?kategorie=c272_Solutions_CHRONOS_Product_description|404
+81|CHRONOS|http://www.csp-sw.de/en/inhalt.php?kategorie=c273_Functions&position=0|404
+699|CINCH|https://github.com/lfarrell|200
+699|CINCH|http://unlicense.org/|200
+699|CINCH|https://www.Cinch.png/150px-Cinch.png|Bad response - worth checking
+699|CINCH|http://cinch.nclive.org/Cinch/site/page?view=about|404
+699|CINCH|http://slnc-dimp.github.io/Cinch/|200
+699|CINCH|https://www.Cinch.png/200px-Cinch.png|Bad response - worth checking
+699|CINCH|https://www.Cinch.png/100px-Cinch.png|Bad response - worth checking
+699|CINCH|http://statelibrary.ncdcr.gov/|200
+699|CINCH|https://github.com/erholmes|200
+699|CINCH|http://github.com/SLNC-DIMP/Cinch/commits|200
+699|CINCH|http://cinch.nclive.org/Cinch/|404
+367|CMDP (Cost Model for Digital Preservation)|https://www.openhub.net/projects/CMDP/widgets/project_basic_stats?format=js|200
+367|CMDP (Cost Model for Digital Preservation)|http://www.costmodelfordigitalpreservation.dk/|404
+367|CMDP (Cost Model for Digital Preservation)|http://www.costmodelfordigitalpreservation.dk/contact/cmdp-2---ingest-and-archival-storage/documentation|404
+368|CONTENTdm|https://www.oclc.org/en/contentdm.html|200
+368|CONTENTdm|https://www.openhub.net/projects/CONTENTdm/widgets/project_basic_stats?format=js|200
+368|CONTENTdm|https://help.oclc.org/Metadata_Services/CONTENTdm|200
+17|COPTR needs YOU!|http://www.openplanetsfoundation.org/blogs/2013-09-23-digital-preservation-war-stories|200
+451|COPTR to do list|http://coptr.digipres.org/Special:ShortPages|200
+369|CRunch|https://www.openhub.net/projects/cRunch/widgets/project_basic_stats?format=js|200
+369|CRunch|http://crunch.kmi.open.ac.uk/w/|Bad response - worth checking
+369|CRunch|http://crunch.kmi.open.ac.uk/|Bad response - worth checking
+82|CSV2SIARD|http://kost-ceco.ch/cms/index.php?csv2siard_de|200
+82|CSV2SIARD|https://github.com/mkaiser56|200
+82|CSV2SIARD|https://www.Csv2siard.png/150px-Csv2siard.png|Bad response - worth checking
+82|CSV2SIARD|http://github.com/KOST-CECO/csv2siard_toolset/commits|200
+82|CSV2SIARD|http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0165|200
+82|CSV2SIARD|https://www.Csv2siard.png/100px-Csv2siard.png|Bad response - worth checking
+82|CSV2SIARD|https://www.Csv2siard.png/200px-Csv2siard.png|Bad response - worth checking
+82|CSV2SIARD|http://www.ech.ch/vechweb/page?p=dossier&amp;documentNumber=eCH-0165|200
+1247|CSV (Comma Separated Values)|http://fileformats.archiveteam.org/wiki/CSV|200
+1247|CSV (Comma Separated Values)|https://www.wikidata.org/wiki/Q935809|200
+540|CSV Validator|https://github.com/adamretter|200
+540|CSV Validator|https://github.com/digital-preservation/csv-validator/releases|200
+540|CSV Validator|https://openpreservation.org/blogs/droid-report-as-basis-for-collection-integrity-checks/|200
+540|CSV Validator|http://digital-preservation.github.io/csv-schema/csv-schema-1.0.html|200
+540|CSV Validator|http://digital-preservation.github.io/csv-schema/csv-schema-1.1.html|200
+540|CSV Validator|http://digital-preservation.github.io/csv-validator/|200
+540|CSV Validator|http://blog.nationalarchives.gov.uk/blog/csv-validator-new-digital-preservation-tool/|200
+540|CSV Validator|http://www.mozilla.org/MPL/2.0/|200
+540|CSV Validator|https://github.com/digital-preservation/csv-validator/commits|200
+540|CSV Validator|https://www.Csv-validator-started-gui.png/150px-Csv-validator-started-gui.png|Bad response - worth checking
+540|CSV Validator|https://www.Csv-validator-started-gui.png/100px-Csv-validator-started-gui.png|Bad response - worth checking
+540|CSV Validator|https://www.Csv-validator-started-gui.png/200px-Csv-validator-started-gui.png|Bad response - worth checking
+540|CSV Validator|https://www.dpconline.org/handbook|200
+540|CSV Validator|https://www.dpconline.org/handbook/tool-demos/csvvalidator-demo|200
+540|CSV Validator|https://github.com/dependabot|200
+547|Calibre|https://www.Library.png/150px-Library.png|Bad response - worth checking
+547|Calibre|http://www.softpedia.com/reviews/windows/Calibre-Review-340940.shtml|200
+547|Calibre|http://calibre-ebook.com/whats-new|200
+547|Calibre|https://www.Library.png/200px-Library.png|Bad response - worth checking
+547|Calibre|http://manual.calibre-ebook.com/|200
+547|Calibre|http://blog.calibre-ebook.com/|200
+547|Calibre|http://dearauthor.com/book-reviews/calibre-the-ebook-readers-best-friend-part-1-of-2/|200
+547|Calibre|https://www.Library.png/100px-Library.png|Bad response - worth checking
+547|Calibre|http://bazaar.launchpad.net/~kovid/calibre/trunk/changes|200
+547|Calibre|http://manual.calibre-ebook.com/faq.html|200
+547|Calibre|http://www.macworld.com/article/1160425/calibre.html|200
+547|Calibre|http://www.mobileread.com/forums/forumdisplay.php?f=166|200
+547|Calibre|http://calibre-ebook.com/|200
+547|Calibre|https://www.openhub.net/projects/calibre/widgets/project_basic_stats?format=js|200
+321|Carbonite|https://www.openhub.net/projects/Carbonite/widgets/project_basic_stats?format=js|200
+321|Carbonite|http://www.carbonite.com/en/v2/index|403
+558|Catalogue of Policy Elements|http://libraryblogs.is.ed.ac.uk/bitsandpieces/2014/11/04/lets-talk-about-policy/|200
+558|Catalogue of Policy Elements|http://openplanetsfoundation.org/blogs/2014-05-20-catalogue-policy-elements|200
+558|Catalogue of Policy Elements|http://wiki.opf-labs.org/display/SP/Catalogue+of+Preservation+Policy+Elements|200
+752|Catalyst|https://www.weareavp.com/catalyst-case-study-1-sudden-loss-of-institutional-knowledge/|200
+752|Catalyst|https://www.weareavp.com/a-comparison-of-inventory-assessment-tools/|200
+752|Catalyst|https://catalyst.weareavp.com|200
+752|Catalyst|http://weareavp.com|200
+79|Catdoc & xls2csv|http://vitus.wagner.pp.ru/software/catdoc/|200
+79|Catdoc & xls2csv|https://www.openhub.net/projects/catdoc%20%26%20xls2csv/widgets/project_basic_stats?format=js|200
+677|Checkit tiff|https://art1pirat.spdns.org/art1/checkit_tiff|200
+677|Checkit tiff|http://libtiff.maptools.org/misc.html|200
+677|Checkit tiff|https://kulturreste.blogspot.com/search?q=checkit_tiff|200
+677|Checkit tiff|https://art1pirat.spdns.org/art1/checkit_tiff/commits/branch/master|200
+1273|Checksum (by Corz)|https://www.dpconline.org/handbook|200
+1273|Checksum (by Corz)|https://corz.org/windows/software/checksum/|Bad response - worth checking
+1273|Checksum (by Corz)|https://www.dpconline.org/handbook/tool-demos/checksum-demo|200
+322|Chronopolis|https://www.openhub.net/projects/Chronopolis/widgets/project_basic_stats?format=js|200
+322|Chronopolis|http://chronopolis.sdsc.edu/|Bad response - worth checking
+126|Cksum Unix command|http://www.gnu.org/software/coreutils/manual/html_node/cksum-invocation.html|200
+126|Cksum Unix command|https://www.openhub.net/projects/Cksum%20Unix%20command/widgets/project_basic_stats?format=js|200
+896|ClairMeta|https://github.com/matmat|200
+896|ClairMeta|https://github.com/Ymagis/ClairMeta|200
+896|ClairMeta|https://github.com/Ymagis/ClairMeta/commits/develop|200
+896|ClairMeta|https://github.com/remia|200
+686|Clipper|http://wiki.dpconline.org/index.php?title=Clipper:_Enhancing_Time_Based_Media_for_Research|200
+686|Clipper|http://blog.clippertube.com/index.php/what-is-clipper/|200
+903|Cloc|https://github.com/AlDanial/cloc|200
+903|Cloc|https://github.com/AlDanial/cloc/releases|200
+169|CloneCD|https://www.redfox.bz/download/changes_clonecd.txt|200
+169|CloneCD|https://web.archive.org/web/20031030125601/http://www.slysoft.com/en/clonecd.html|200
+169|CloneCD|https://www.redfox.bz/en/clonecd.html|200
+169|CloneCD|https://web.archive.org/web/20011005040240/http://www.elby.org/CloneCD/english/index.htm|200
+169|CloneCD|https://www.openhub.net/projects/CloneCD/widgets/project_basic_stats?format=js|200
+169|CloneCD|https://web.archive.org/web/20000823042001/http://store.element5.com:80/corporate.html|200
+978|CloneSpy|http://www.clonespy.com/|200
+28|CollectiveAccess|https://www.openhub.net/projects/CollectiveAccess/widgets/project_basic_stats?format=js|200
+28|CollectiveAccess|http://www.opencollection.org/|200
+198|Collectus|https://www.openhub.net/projects/Collectus%20--%20A%20Digital%20Object%20Collector%20Tool/widgets/project_basic_stats?format=js|200
+198|Collectus|http://www.lib.virginia.edu/digital/resndev/collectus.html|200
+283|ContextMiner|https://www.openhub.net/projects/ContextMiner/widgets/project_basic_stats?format=js|200
+283|ContextMiner|http://www.contextminer.org|Bad response - worth checking
+1183|Contribute your workflow to COW|https://www.yworks.com|200
+1183|Contribute your workflow to COW|https://blogs.loc.gov/thesignal/2012/03/visualizing-digital-preservation-workflows/|200
+1183|Contribute your workflow to COW|https://educopia.org/research/ossarcflow|403
+1183|Contribute your workflow to COW|https://app.lucidchart.com/invitations/accept/c1a9814d-ae2d-444a-8673-811bd68b0278|200
+1183|Contribute your workflow to COW|https://www.lucidchart.com/|200
+1183|Contribute your workflow to COW|https://bitcuratorconsortium.org/workflows|403
+1183|Contribute your workflow to COW|https://educopia.org/ossarcflow-guide/|403
+991|Converseen|http://converseen.fasterland.net/|200
+754|Cost of Inaction Calculator|http://weareavp.com|200
+754|Cost of Inaction Calculator|https://coi.weareavp.com/|200
+64|Cp Unix command|http://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html|200
+64|Cp Unix command|https://www.openhub.net/projects/cp%20Unix%20command/widgets/project_basic_stats?format=js|200
+64|Cp Unix command|http://lists.gnu.org/archive/html/coreutils/2014-08/msg00012.html|200
+1261|Crazy-fast-image-scan|https://metacpan.org/pod/distribution/File-FormatIdentification-RandomSampling/bin/crazy_fast_image_scan.pl|200
+1261|Crazy-fast-image-scan|http://simson.net/ref/2014/2014-02-21_RPI_Forensics_Innovation.pdf|200
+65|Cryptcat|https://www.openhub.net/projects/cryptcat/widgets/project_basic_stats?format=js|200
+65|Cryptcat|http://cryptcat.sourceforge.net/info.php|200
+65|Cryptcat|http://www.tutonics.com/2012/05/encrypted-data-transfer-using-cryptcat.html|200
+65|Cryptcat|http://books.mcgraw-hill.com/downloads/osborne/products/0072222824/0072222824_ch01.pdf|Bad response - worth checking
+65|Cryptcat|https://revision3.com/haktip/how-to-use-cryptcat-for-encrypted-netcat/|Bad response - worth checking
+65|Cryptcat|http://manpages.ubuntu.com/manpages/lucid/man1/cryptcat.1.html|404
+65|Cryptcat|http://sourceforge.net/projects/cryptcat/|200
+284|Curate.Us|https://www.openhub.net/projects/Curate.Us/widgets/project_basic_stats?format=js|404
+284|Curate.Us|https://secure.curate.us/content/front|Bad response - worth checking
+988|CyberChef|https://bitofhex.com/2018/05/29/cyberchef/|200
+988|CyberChef|https://www.i-programmer.info/news/90-tools/13117-cyberchef-the-developers-ultimate-toolbox.html|200
+988|CyberChef|https://gchq.github.io/CyberChef/|200
+379|D-Net Software Kit|http://www.d-net.research-infrastructures.eu/node/22|200
+379|D-Net Software Kit|http://www.d-net.research-infrastructures.eu/|200
+379|D-Net Software Kit|http://www.apache.org/licenses/|200
+379|D-Net Software Kit|https://www.openhub.net/projects/D-Net%20Software%20Kit/widgets/project_basic_stats?format=js|200
+379|D-Net Software Kit|http://ivy.driver.research-infrastructures.eu/ci/dnet-aggregative-doc/|200
+222|DAITSS|http://daitss.fcla.edu/|Bad response - worth checking
+222|DAITSS|https://www.openhub.net/projects/DAITSS/widgets/project_basic_stats?format=js|200
+102|DANS DBF|https://www.openhub.net/projects/DANS%20%28Data%20Archiving%20and%20Networked%20Services%29%20DBF/widgets/project_basic_stats?format=js|200
+102|DANS DBF|http://dans-dbf-lib.sourceforge.net/|200
+102|DANS DBF|http://www.gnu.org/licenses/gpl.html|200
+83|DANS MIXED|https://sites.google.com/a/datanetworkservice.nl/mixed/|200
+83|DANS MIXED|https://www.openhub.net/projects/DANS%20MIXED/widgets/project_basic_stats?format=js|200
+959|DART (Digital Archivist's Resource Tool)|https://aptrust.github.io/dart-docs/|200
+950|DArcMail|http://www.emailarchivestaskforce.org/documents/email-tools/|406
+950|DArcMail|https://siarchives.si.edu/what-we-do/digital-curation/email-preservation-darcmail|200
+950|DArcMail|https://opensource.org/licenses/MIT|200
+950|DArcMail|http://nrs.harvard.edu/urn-3:HUL.InstRepos:28682572|200
+1253|DB|http://fileformats.archiveteam.org/wiki/Ext:db|200
+1114|DBeaver|https://dbeaver.io|200
+325|DCape (ingest only)|https://www.openhub.net/projects/DCape%20%28ingest%20only%29/widgets/project_basic_stats?format=js|200
+325|DCape (ingest only)|http://salt.unc.edu/dcape/index.html|Bad response - worth checking
+967|DIMAG|https://dimag-wiki.la-bw.de|200
+688|DMAOnline (Data Management Administration Online)|http://wiki.dpconline.org/index.php?title=Data_Management_Administration_Online|200
+688|DMAOnline (Data Management Administration Online)|http://www.dmao.info/|Bad response - worth checking
+84|DMC (DBpoweramp Music Converter)|http://www.dbpoweramp.com/dmc.htm|200
+84|DMC (DBpoweramp Music Converter)|https://www.openhub.net/projects/dBpoweramp%20Music%20Converter%20%28dMC%29/widgets/project_basic_stats?format=js|200
+378|DMPTool|http://www.gnu.org/licenses/gpl.html|200
+378|DMPTool|https://dmp.cdlib.org/help/guide|Bad response - worth checking
+378|DMPTool|https://www.openhub.net/projects/DMPTool/widgets/project_basic_stats?format=js|200
+378|DMPTool|https://dmp.cdlib.org/help/video_demo|Bad response - worth checking
+378|DMPTool|https://dmp.cdlib.org/|Bad response - worth checking
+377|DMPonline|http://dmponline.dcc.ac.uk/|200
+377|DMPonline|https://www.openhub.net/projects/DMPonline/widgets/project_basic_stats?format=js|200
+1023|DOSBox|https://www.dosbox.com/|200
+380|DPBCT (Digital Preservation Business Case Toolkit)|http://wiki.dpconline.org/index.php?title=Case_studies|200
+380|DPBCT (Digital Preservation Business Case Toolkit)|http://wiki.dpconline.org/index.php?title=Special:RecentChanges|404
+380|DPBCT (Digital Preservation Business Case Toolkit)|https://www.openhub.net/projects/-/widgets/project_basic_stats?format=js|200
+380|DPBCT (Digital Preservation Business Case Toolkit)|http://wiki.dpconline.org/index.php?title=Digital_Preservation_Business_Case_Toolkit|200
+659|DPCMM (Digital Preservation Capability Maturity Model)|http://www.securelyrooted.com/dpcmm|200
+659|DPCMM (Digital Preservation Capability Maturity Model)|http://www.securelyrooted.com/s/DPCMM-White-Paper_Revised-April-2014.pdf|200
+1293|DPC RAM (Rapid Assessment Model)|https://www.dpconline.org/blog/idpd/assessing-where-we-are|200
+1293|DPC RAM (Rapid Assessment Model)|https://www.dpconline.org/blog/postal-museum-ram-case-study|200
+1293|DPC RAM (Rapid Assessment Model)|https://www.dpconline.org/digipres/dpc-ram|200
+1293|DPC RAM (Rapid Assessment Model)|https://www.dpconline.org/blog/tips-to-rock-the-ram|200
+1293|DPC RAM (Rapid Assessment Model)|https://www.dpconline.org/blog/idpd/starting-dp-to-bau|200
+1028|DPF Manager|http://dpfmanager.org/|200
+381|DRAMBORA|http://dltj.org/article/trac-and-drambora/|200
+381|DRAMBORA|http://opus.bath.ac.uk/21536/1/ECrystals-WP4-PP-090625.pdf|200
+381|DRAMBORA|http://blog.soton.ac.uk/keepit/tag/drambora/|200
+381|DRAMBORA|https://www.openhub.net/projects/DRAMBORA/widgets/project_basic_stats?format=js|200
+381|DRAMBORA|http://www.repositoryaudit.eu/|200
+1009|7train|https://sourceforge.net/p/seventrain/code/commit_browser|200
+1009|7train|http://seventrain.sourceforge.net/|200
+220|Archivematica|http://library.bentley.edu/|200
+220|Archivematica|http://digital-archiving.blogspot.co.uk/2012/09/installing-archivematica-and-running.html|404
+220|Archivematica|http://libraryblogs.is.ed.ac.uk/bitsandpieces/2016/01/13/archivematica-youre-the-one-that-i-want/|200
+220|Archivematica|https://wiki.archivematica.org/Main_Page|200
+220|Archivematica|https://ethan-gates.com/files/Archivematica_Workshop_2017.pdf|200
+220|Archivematica|http://diginit.library.ubc.ca/|200
+220|Archivematica|http://larchivista.blogspot.co.uk/2011/04/installing-archivematica.html|200
+220|Archivematica|http://www.dcc.ac.uk/resources/briefing-papers/introduction-curation/using-oais-curation|200
+220|Archivematica|http://goo.gl/tlRHbk|200
+220|Archivematica|http://github.com/artefactual/archivematica/commits|200
+220|Archivematica|https://www.artefactual.com/services/|200
+220|Archivematica|http://groups.google.com/group/archivematica|200
+220|Archivematica|https://wiki.archivematica.org/Community/Regional_User_Groups|200
+220|Archivematica|https://vancouver.ca/your-government/city-of-vancouver-archives.aspx|200
+220|Archivematica|http://e-records.chrisprom.com/evaluating-open-source-digital-preservation-systems-a-case-study-2/|406
+220|Archivematica|https://duraspace.org/archivesdirect/|200
+220|Archivematica|http://www.sfu.ca/archives/|200
+220|Archivematica|http://www.gnu.org/licenses/agpl.html|200
+220|Archivematica|http://rockarch.org/|200
+220|Archivematica|http://www.sustainableheritagenetwork.org/system/files/atoms/file/Tutorial_for_Archivematica_POWRR_WarmSprings.pdf|200
+220|Archivematica|https://github.com/artefactual/archivematica-sampledata|200
+220|Archivematica|https://www.archivematica.org/en/docs/latest|200
+220|Archivematica|https://www.artefactual.com/|200
+220|Archivematica|https://www.archivematica.org/en/|200
+220|Archivematica|https://www.archivematica.org|200
+220|Archivematica|https://wiki.archivematica.org/Community/Camps|200
+220|Archivematica|https://www.archivematica.org/wiki/Community|404
+708|ArchivesSpace|http://www.archivesspace.org/|200
+708|ArchivesSpace|http://archivesspace.org/overview|404
+708|ArchivesSpace|http://github.com/archivesspace/archivesspace/commits|200
+197|Archivists' Toolkit|http://archiviststoolkit.org/download/release/2_0.html|200
+1017|BnL Mets Exporter|https://github.com/natliblux/BnLMetsExporter|200
+1015|Bnlviewer|https://sourceforge.net/projects/bnlviewer/|200
+370|Curator's Workbench|http://github.com/UNC-Libraries/Curators-Workbench/commits|200
+370|Curator's Workbench|https://github.com/UNC-Libraries/Curators-Workbench/issues|200
+370|Curator's Workbench|https://github.com/UNC-Libraries/Curators-Workbench/wiki|200
+370|Curator's Workbench|https://blogs.lib.unc.edu/cdr/index.php/about/cdr-development-and-collab/curators-workbench/|404
+370|Curator's Workbench|https://github.com/UNC-Libraries/Curators-Workbench|200
+370|Curator's Workbench|http://www.apache.org/licenses/LICENSE-2.0.html|200
+1004|DFG Viewer|https://dfg-viewer.de/|200
+1004|DFG Viewer|https://github.com/slub/dfg-viewer|200
+966|DIMAG IngestList|http://ingestlist.sf.net/|200
+75|DROID (Digital Record Object Identification)|http://digital-preservation.github.io/droid/|200
+75|DROID (Digital Record Object Identification)|http://www.nationalarchives.gov.uk/aboutapps/pronom/droid-signature-files.htm|200
+75|DROID (Digital Record Object Identification)|http://www.nationalarchives.gov.uk/information-management/manage-information/policy-process/digital-continuity/file-profiling-tool-droid/|200
+75|DROID (Digital Record Object Identification)|http://openplanetsfoundation.org/blogs/2014-06-03-analysis-engine-droid-csv-export|200
+75|DROID (Digital Record Object Identification)|https://www.dpconline.org/handbook|200
+75|DROID (Digital Record Object Identification)|http://britishlibrary.typepad.co.uk/webarchive/2014/07/how-much-of-the-uk-html-is-valid.html|200
+75|DROID (Digital Record Object Identification)|https://www.dpconline.org/handbook/tool-demos/droid-demo|200
+75|DROID (Digital Record Object Identification)|http://www.nationalarchives.gov.uk/|200
+75|DROID (Digital Record Object Identification)|http://apps.nationalarchives.gov.uk/pronom/fmt/579.xml|200
+75|DROID (Digital Record Object Identification)|http://www.nationalarchives.gov.uk/aboutapps/pronom/release-notes.xml|200
+75|DROID (Digital Record Object Identification)|http://github.com/digital-preservation/droid/commits|200
+75|DROID (Digital Record Object Identification)|http://apps.nationalarchives.gov.uk/pronom/fmt/579|200
+75|DROID (Digital Record Object Identification)|http://www.jisc.ac.uk/media/documents/programmes/preservation/daat_file_format_tools_report.pdf|200
+546|DROID Siegfried Sqlite Analysis Engine|http://www.openplanetsfoundation.org/blogs/2014-06-03-analysis-engine-droid-csv-export|200
+546|DROID Siegfried Sqlite Analysis Engine|https://github.com/ross-spencer|200
+546|DROID Siegfried Sqlite Analysis Engine|http://msdn.microsoft.com/en-us/library/aa365247(VS.85).aspx|200
+546|DROID Siegfried Sqlite Analysis Engine|http://manpages.ubuntu.com/manpages/trusty/man1/rsync.1.html|200
+546|DROID Siegfried Sqlite Analysis Engine|https://github.com/digital-preservation/droid|200
+546|DROID Siegfried Sqlite Analysis Engine|http://openpreservation.org/blog/2016/05/24/while-were-on-the-subject-a-few-more-points-of-interest-about-the-siegfrieddroid-analysis-tool/|200
+546|DROID Siegfried Sqlite Analysis Engine|https://github.com/richardlehane/siegfried|200
+546|DROID Siegfried Sqlite Analysis Engine|https://github.com/exponential-decay/droid-siegfried-sqlite-analysis-engine|200
+546|DROID Siegfried Sqlite Analysis Engine|http://openpreservation.org/blog/2016/05/23/whats-in-a-namespace-the-marriage-of-droid-and-siegfried-analysis/|200
+546|DROID Siegfried Sqlite Analysis Engine|https://github.com/exponential-decay/droid-siegfried-sqlite-analysis-engine/releases.atom|200
+546|DROID Siegfried Sqlite Analysis Engine|http://openpreservation.org/blog/2015/08/25/hero-or-villain-a-tool-to-create-a-digital-preservation-rogues-gallery/|200
+546|DROID Siegfried Sqlite Analysis Engine|http://github.com/ross-spencer/droid-sqlite-analysis/commits|200
+69|DSPS (Digital Preservation Software Platform)|http://naa.gov.au/|200
+69|DSPS (Digital Preservation Software Platform)|https://www.openhub.net/projects/Digital%20Preservation%20Software%20Platform/widgets/project_basic_stats?format=js|200
+69|DSPS (Digital Preservation Software Platform)|http://dpsp.sourceforge.net/|200
+69|DSPS (Digital Preservation Software Platform)|http://manifestmaker.sourceforge.net/|200
+69|DSPS (Digital Preservation Software Platform)|http://checksumchecker.sourceforge.net/|200
+382|DSpace|http://www.dspace.org/whos-using-dspace|404
+382|DSpace|https://wiki.duraspace.org/display/DSDOC/All+Documentation|200
+382|DSpace|http://www.dspace.org/|200
+382|DSpace|http://www.linfo.org/bsdlicense.html|200
+190|DUMPBIN Utility|http://support.microsoft.com/kb/177429|404
+190|DUMPBIN Utility|https://www.openhub.net/projects/DUMPBIN%20Utility/widgets/project_basic_stats?format=js|200
+1036|DVRescue|https://www.mipops.org/dvrescue/|200
+1036|DVRescue|https://www.openhub.net/projects/DVRescue/widgets/project_basic_stats?format=js|200
+238|DV Analyzer|http://www.avpreserve.com/dvanalyzer/|404
+238|DV Analyzer|https://www.openhub.net/projects/DV%20Analyzer/widgets/project_basic_stats?format=js|200
+260|Darik's Boot And Nuke|https://www.openhub.net/projects/Darik%27s%20Boot%20And%20Nuke/widgets/project_basic_stats?format=js|200
+260|Darik's Boot And Nuke|http://www.dban.org|200
+372|DataCite|http://www.apache.org/licenses/LICENSE-2.0.html|200
+372|DataCite|https://mds.datacite.org/static/apidoc|404
+372|DataCite|http://www.datacite.org/members|200
+372|DataCite|https://www.openhub.net/projects/DataCite/widgets/project_basic_stats?format=js|200
+372|DataCite|http://www.datacite.org|200
+372|DataCite|http://datacite.org/|200
+373|DataFlow|http://www.opensource.org/licenses/MIT|200
+373|DataFlow|http://www.dcc.ac.uk/node/9385|404
+373|DataFlow|https://github.com/dataflow/RDFDatabank/wiki|200
+373|DataFlow|https://www.mailto:dataflow-devel@googlegroups.com|200
+373|DataFlow|https://www.openhub.net/projects/DataFlow/widgets/project_basic_stats?format=js|200
+373|DataFlow|http://dataflow-jira.bodleian.ox.ac.uk/jira/secure/IssueNavigator.jspa|Bad response - worth checking
+373|DataFlow|https://github.com/dataflow/DataStage/wiki|200
+373|DataFlow|http://www.dcc.ac.uk/node/9397|404
+373|DataFlow|http://www.dataflow.ox.ac.uk/index.php/datastage/users/test-users|Bad response - worth checking
+373|DataFlow|http://www.dataflow.ox.ac.uk|Bad response - worth checking
+373|DataFlow|http://www.dataflow.ox.ac.uk/index.php/about/about-datastage|Bad response - worth checking
+373|DataFlow|http://www.dataflow.ox.ac.uk/index.php/about/about-databank|Bad response - worth checking
+141|DataLifter|http://www.datalifter.com/|Bad response - worth checking
+141|DataLifter|https://www.openhub.net/projects/DataLifter/widgets/project_basic_stats?format=js|200
+374|DataStage|http://www.opensource.org/licenses/MIT|200
+374|DataStage|http://www.dcc.ac.uk/resource/external/databank|404
+374|DataStage|http://dataflow-jira.bodleian.ox.ac.uk/jira/secure/IssueNavigator.jspa|Bad response - worth checking
+374|DataStage|http://www.dataflow.ox.ac.uk/index.php/datastage|Bad response - worth checking
+374|DataStage|http://http://www.dataflow.ox.ac.uk/index.php/datastage/users/test-users|Bad response - worth checking
+374|DataStage|https://github.com/dataflow/DataStage/wiki|200
+374|DataStage|https://www.openhub.net/projects/DataStage/widgets/project_basic_stats?format=js|200
+374|DataStage|http://dataflow-devel@googlegroups.com|200
+371|Data Asset Framework|https://www.openhub.net/projects/Data%20Asset%20Framework/widgets/project_basic_stats?format=js|200
+371|Data Asset Framework|http://www.data-audit.eu/docs/DAF_Implementation_Guide.pdf|200
+371|Data Asset Framework|http://www.data-audit.eu|200
+371|Data Asset Framework|http://www.data-audit.eu/tool2|404
+371|Data Asset Framework|http://www.dcc.ac.uk/webfm_send/764|404
+371|Data Asset Framework|http://www.data-audit.eu/users.html|200
+371|Data Asset Framework|http://www.data-audit.eu/DAF_Methodology.pdf|200
+682|Data Vault|http://libraryblogs.is.ed.ac.uk/jiscdatavault/demo/|200
+682|Data Vault|https://www.Datavault.jpg/100px-Datavault.jpg|Bad response - worth checking
+682|Data Vault|https://www.Datavault.jpg/150px-Datavault.jpg|Bad response - worth checking
+682|Data Vault|https://www.Datavault.jpg/200px-Datavault.jpg|Bad response - worth checking
+682|Data Vault|http://datavaultplatform.org/|200
+682|Data Vault|http://wiki.dpconline.org/index.php?title=Data_Vault|200
+1260|Data structures in COPTR|https://www.mediawiki.org/wiki/Extension:Page_Forms|200
+1260|Data structures in COPTR|https://www.semantic-mediawiki.org|200
+375|Dataverse|http://dvn.library.ubc.ca/dvn/|200
+375|Dataverse|http://guides.dataverse.org/en/latest/|200
+375|Dataverse|http://dvn.fudan.edu.cn/dvn/|200
+375|Dataverse|http://130.226.229.76/dvn/|504
+375|Dataverse|http://guides.dataverse.org/en/latest/api/index.html|200
+375|Dataverse|https://dataverse.harvard.edu|200
+375|Dataverse|http://guides.dataverse.org/en/4.0/_images/DatasetDiagram.png|200
+375|Dataverse|https://groups.google.com/forum/#!forum/dataverse-community|200
+375|Dataverse|https://github.com/kcondon|200
+375|Dataverse|https://github.com/IQSS/dataverse|200
+375|Dataverse|https://dataverse.nl|200
+375|Dataverse|http://dataverse.org/|200
+375|Dataverse|http://www.iq.harvard.edu/|200
+375|Dataverse|http://www.apache.org/licenses/LICENSE-2.0.html|200
+375|Dataverse|http://dataverse.org/about/|200
+375|Dataverse|http://opendata.uit.no/dvn/|404
+375|Dataverse|http://guides.dataverse.org/en/4.0/_images/Dataverse-Diagram.png|200
+375|Dataverse|http://github.com/IQSS/dataverse/commits|200
+375|Dataverse|http://dataverse.scholarsportal.info/dvn/|404
+375|Dataverse|https://github.com/IQSS/dataverse/issues|200
+375|Dataverse|http://dataverse.harvard.edu|200
+375|Dataverse|http://www.irss.unc.edu/odum/contentSubpage.jsp?nodeid=11|Bad response - worth checking
+375|Dataverse|https://www.openhub.net/projects/Dataverse/widgets/project_basic_stats?format=js|200
+375|Dataverse|https://www.force11.org/group/joint-declaration-data-citation-principles-final|200
+375|Dataverse|https://heidata.uni-heidelberg.de/dvn/|404
+375|Dataverse|https://dataverse.library.ualberta.ca/dvn/|200
+539|Db-preservation-toolkit|https://github.com/keeps/db-preservation-toolkit/releases|200
+539|Db-preservation-toolkit|https://www.database-preservation.com|200
+539|Db-preservation-toolkit|https://www.openhub.net/projects/db_preservation_toolkit/widgets/project_basic_stats?format=js|200
+539|Db-preservation-toolkit|https://zenodo.org/record/1173099|200
+539|Db-preservation-toolkit|https://github.com/keeps/db-preservation-toolkit/commits/master|200
+539|Db-preservation-toolkit|https://zenodo.org/record/1171715|200
+539|Db-preservation-toolkit|https://github.com/keeps/db-preservation-toolkit|200
+951|DbDIPview|https://github.com/dbdipview/dbdipview/wiki/Screenshots|200
+951|DbDIPview|https://github.com/dbdipview/dbdipview/wiki|200
+177|Dc3dd for computer forensics|http://dc3dd.sourceforge.net/|200
+177|Dc3dd for computer forensics|https://www.openhub.net/projects/dc3dd%20for%20computer%20forensics/widgets/project_basic_stats?format=js|200
+107|Dcfldd|https://www.openhub.net/projects/dcfldd/widgets/project_basic_stats?format=js|200
+107|Dcfldd|http://dcfldd.sourceforge.net/|200
+66|Dd Unix command|http://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html|200
+66|Dd Unix command|https://www.openhub.net/projects/dd%20Unix%20command/widgets/project_basic_stats?format=js|200
+111|Dd rescue|https://www.openhub.net/projects/dd_rescue/widgets/project_basic_stats?format=js|200
+111|Dd rescue|http://www.garloff.de/kurt/linux/ddrescue/|200
+1107|De-Duplication|https://groups.google.com/forum/#!topic/digital-curation/VqcQTTw3vYw|200
+1107|De-Duplication|http://qanda.digipres.org/58/what-techniques-there-detecting-similar-images-large-scale|200
+304|DeepArc|http://java.sun.com/j2se/1.4.2/download.html|200
+304|DeepArc|https://www.openhub.net/projects/DeepArc/widgets/project_basic_stats?format=js|200
+304|DeepArc|http://deeparc.sourceforge.net/|200
+304|DeepArc|http://sourceforge.net/projects/deeparc/|200
+304|DeepArc|http://sourceforge.net/projects/deeparc/files/?source=navbar|200
+45|Dependency Discovery Tool|https://www.openhub.net/projects/Dependency%20Discovery%20Tool/widgets/project_basic_stats?format=js|200
+45|Dependency Discovery Tool|https://sourceforge.net/api/file/index/project-id/679950/mtime/desc/limit/20/rss|200
+45|Dependency Discovery Tool|http://archives.govt.nz|200
+45|Dependency Discovery Tool|https://sourceforge.net/apps/trac/officeddt/report/1?format=rss|200
+45|Dependency Discovery Tool|http://poi.apache.org|200
+45|Dependency Discovery Tool|http://www.openplanetsfoundation.org/blogs/2012-02-01-dependency-discovery-tool-office-files-code-published|200
+45|Dependency Discovery Tool|http://sourceforge.net/projects/officeddt|200
+45|Dependency Discovery Tool|http://ecs.vuw.ac.nz|200
+142|Digital Intelligence Forensic Software|http://www.digitalintelligence.com/software/disoftware.php|200
+142|Digital Intelligence Forensic Software|https://www.openhub.net/projects/Digital%20Intelligence%20Forensic%20Software/widgets/project_basic_stats?format=js|200
+662|Digital Preservation Management Tools and Techniques|http://dpworkshop.org/workshops/management-tools/process-results|200
+662|Digital Preservation Management Tools and Techniques|http://dpworkshop.org/workshops/management-tools/principles|200
+662|Digital Preservation Management Tools and Techniques|http://dpworkshop.org/workshops/management-tools/workflows|200
+662|Digital Preservation Management Tools and Techniques|http://dpworkshop.org/workshops/management-tools/disaster-preparedness|200
+662|Digital Preservation Management Tools and Techniques|http://dpworkshop.org/workshops/management-tools|200
+662|Digital Preservation Management Tools and Techniques|http://dpworkshop.org/workshops/management-tools/self-assessment|200
+662|Digital Preservation Management Tools and Techniques|http://dpworkshop.org/workshops/management-tools/policy-framework|200
+911|Digital Preservation Policy Framework|http://dpworkshop.org/workshops/management-tools/policy-framework|200
+236|Digital Preservation Recorder|https://www.openhub.net/projects/Digital%20Preservation%20Recorder/widgets/project_basic_stats?format=js|200
+236|Digital Preservation Recorder|http://naa.gov.au/|200
+236|Digital Preservation Recorder|http://dpr.sourceforge.net/|200
+376|Dioscuri|http://dioscuri.sourceforge.net/dioscuri.html|200
+376|Dioscuri|http://dioscuri.sourceforge.net/|200
+376|Dioscuri|http://www.gnu.org/licenses/gpl.html|200
+376|Dioscuri|https://www.openhub.net/projects/Dioscuri/widgets/project_basic_stats?format=js|200
+998|Directory List & Print|https://www.infonautics-software.ch/directorylistprint/|200
+1215|DiskFormatID|https://digitalcontinuity.org/post/144268258748/floppy-disk-format-identifer-tool#_=_|200
+1215|DiskFormatID|http://www.Kryoflux.com|200
+1215|DiskFormatID|https://github.com/euanc/DiskFormatID|200
+103|DiskView|https://www.openhub.net/projects/DiskView/widgets/project_basic_stats?format=js|200
+103|DiskView|http://technet.microsoft.com/en-us/sysinternals/bb896650.aspx|200
+261|Disk Utility|http://support.apple.com/kb/TA24002|200
+261|Disk Utility|https://www.openhub.net/projects/Disk%20Utility/widgets/project_basic_stats?format=js|200
+650|Disktype|https://www.openhub.net/projects/disktype/widgets/project_basic_stats?format=js|200
+650|Disktype|http://disktype.sourceforge.net/|200
+23|Djatoka|https://www.openhub.net/projects/djatoka/widgets/project_basic_stats?format=js|200
+23|Djatoka|http://sourceforge.net/projects/djatoka/|200
+85|DocMorph: Electronic Document Conversion|https://www.openhub.net/projects/DocMorph%3A%20Electronic%20Document%20Conversion/widgets/project_basic_stats?format=js|200
+85|DocMorph: Electronic Document Conversion|http://docmorph.nlm.nih.gov/docmorph/|Bad response - worth checking
+979|DocuTeam Packer|https://docs.docuteam.ch/packer|200
+999|Docworks|https://content-conversion.com/#docworks-2|200
+1305|Double Commander|https://www.openhub.net/projects/doublecmd/widgets/project_basic_stats?format=js|200
+1305|Double Commander|https://doublecmd.sourceforge.io/|200
+170|DriveImage XML|https://www.openhub.net/projects/DriveImage%20XML/widgets/project_basic_stats?format=js|200
+170|DriveImage XML|http://www.runtime.org/driveimage-xml.htm|200
+326|Dropbox|https://www.dropbox.com/|200
+326|Dropbox|https://www.openhub.net/projects/Dropbox/widgets/project_basic_stats?format=js|200
+383|Duke Data Accessioner|http://e-records.chrisprom.com/?p=1809|406
+383|Duke Data Accessioner|http://e-records.chrisprom.com/dataaccessioner/|406
+383|Duke Data Accessioner|http://library.duke.edu/rubenstein/uarchives/about/data-accessioner|404
+383|Duke Data Accessioner|https://www.openhub.net/projects/Data%20Accessioner/widgets/project_basic_stats?format=js|200
+383|Duke Data Accessioner|https://github.com/seth-shaw/DataAccessioner/|200
+383|Duke Data Accessioner|https://vimeo.com/142888727|200
+383|Duke Data Accessioner|http://dataaccessioner.org/|200
+383|Duke Data Accessioner|https://saaers.wordpress.com/2016/04/26/keeping-track-of-time-with-data-accessioner/|200
+383|Duke Data Accessioner|https://github.com/DataAccessioner/DataAccessioner|200
+1212|DupeGuru|https://www.openhub.net/projects/dupeguru/widgets/project_basic_stats?format=js|200
+1212|DupeGuru|https://www.openhub.net/p/dupeguru|200
+1212|DupeGuru|https://github.com/arsenetar/dupeguru/|200
+1212|DupeGuru|https://dupeguru.voltaicideas.net/|200
+384|DuraCloud|http://www.duracloud.org/|200
+384|DuraCloud|http://www.apache.org/licenses/LICENSE-2.0.html|200
+384|DuraCloud|https://www.openhub.net/projects/DuraCloud/widgets/project_basic_stats?format=js|200
+384|DuraCloud|https://wiki.duraspace.org/display/DURACLOUD/DuraCloud|200
+179|EMET (Embedded Metadata Extraction Tool)|https://www.openhub.net/projects/EMET%20%28Embedded%20Metadata%20Extraction%20Tool%29/widgets/project_basic_stats?format=js|200
+179|EMET (Embedded Metadata Extraction Tool)|http://www.artstor.org/global/g-html/download-emet-public.html|404
+681|EPADD|https://github.com/jfarwer|200
+681|EPADD|https://github.com/ePADD/epadd|200
+681|EPADD|https://library.stanford.edu/projects/epadd/presentations-publications|200
+681|EPADD|http://library.stanford.edu/blogs/special-collections-unbound/2018/07/epadd-60-beta-released|200
+681|EPADD|https://groups.google.com/forum/#!topic/digital-curation/srt-oIVwAGU|200
+681|EPADD|https://library.stanford.edu/projects/epadd/|200
+681|EPADD|https://twitter.com/e_padd?lang=en|200
+681|EPADD|http://github.com/ePADD/epadd/commits|200
+681|EPADD|https://www.openhub.net/projects/epadd/widgets/project_basic_stats?format=js|200
+681|EPADD|https://library.stanford.edu/projects/epadd|200
+681|EPADD|https://github.com/chinuhub|200
+681|EPADD|https://docs.google.com/document/d/1CVIpWK5FNs5KWVHgvtWTa7u0tZjUrFrBHq6_6ZJVfEA|200
+681|EPADD|https://docs.google.com/document/d/10U9Hxh9MS9C9bS8M7uYuXk5m7EBFpgd0yiwCcOSM6D|404
+1272|EPUB|http://fileformats.archiveteam.org/wiki/EPUB|200
+1272|EPUB|https://www.wikidata.org/wiki/Q475488|200
+225|EPrints|http://www.eprints.org/|200
+225|EPrints|http://wiki.eprints.org/w/Main_Page|200
+225|EPrints|http://www.gnu.org/licenses/gpl.html|200
+577|EXE Explorer|http://www.mitec.cz/exe.html|200
+36|EXIF to DC XML normaliser|http://wiki.opf-labs.org/display/SPR/Maintain+a+list+of+metadata+mappings+outside+of+the+script|200
+36|EXIF to DC XML normaliser|http://wiki.opf-labs.org/display/SPR/How+to+maintain+a+list+of+metadata+mappings+outside+of+the+script|200
+36|EXIF to DC XML normaliser|https://github.com/openplanets/SPRUCE/commits/master.atom|200
+36|EXIF to DC XML normaliser|https://www.openhub.net/projects/EXIF%20to%20DC%20XML%20normaliser/widgets/project_basic_stats?format=js|200
+942|EZARK|https://www-demo.lodex.inist.fr/|200
+942|EZARK|https://github.com/istex/istex-ark|200
+942|EZARK|https://www.inist.fr/|200
+217|EZID|https://www.openhub.net/projects/EZID/widgets/project_basic_stats?format=js|200
+217|EZID|http://n2t.net/ezid|404
+101|Easy CD-DA Extractor|https://www.openhub.net/projects/Easy%20CD-DA%20Extractor/widgets/project_basic_stats?format=js|200
+101|Easy CD-DA Extractor|http://download.cnet.com/Easy-CD-DA-Extractor/3640-2140_4-9525093.html?v=1|404
+101|Easy CD-DA Extractor|http://www.poikosoft.com/help/history.html|200
+101|Easy CD-DA Extractor|http://fileforum.betanews.com/detail/EZ-CD-Audio-Converter-formerly-Easy-CDDA-Extractor/929851741/1|200
+101|Easy CD-DA Extractor|http://www.poikosoft.com/help/|200
+101|Easy CD-DA Extractor|http://www.poikosoft.com/support/|200
+101|Easy CD-DA Extractor|http://www.poikosoft.com/|200
+101|Easy CD-DA Extractor|http://www.softpedia.com/reviews/windows/Easy-CD-DA-Extractor-Review-31506.shtml|200
+101|Easy CD-DA Extractor|https://www.Ezcdlogo.png/100px-Ezcdlogo.png|Bad response - worth checking
+1012|EchoDep Hub and Spoke Framework Tool Suite|https://sourceforge.net/projects/echodep/|200
+1012|EchoDep Hub and Spoke Framework Tool Suite|https://sourceforge.net/p/echodep/code/commit_browser|200
+43|ElcomSoft|https://www.openhub.net/projects/ElcomSoft/widgets/project_basic_stats?format=js|200
+43|ElcomSoft|http://www.elcomsoft.com/|200
+86|Emailchemy|http://www.weirdkid.com/blog/category/tips/|404
+86|Emailchemy|http://www.weirdkid.com/blog/category/emailchemy-faq/|404
+86|Emailchemy|http://www.weirdkid.com/blog/category/news/|404
+86|Emailchemy|https://www.Emailchemy.png/100px-Emailchemy.png|Bad response - worth checking
+86|Emailchemy|http://www.macupdate.com/app/mac/8471/emailchemy|200
+86|Emailchemy|http://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:l1ihpx.2.1|Bad response - worth checking
+86|Emailchemy|http://weirdkid.com/products/emailchemy/doc/Emailchemy_User_Manual.pdf|200
+86|Emailchemy|http://www.weirdkid.com/products/emailchemy/|200
+86|Emailchemy|http://www.dpconline.org/advice/technology-watch-reports|200
+86|Emailchemy|http://www.weirdkid.com/blog/2014/07/14/emailchemy-12-1-8-release-fixes-gui-and-entourage-bugs/|200
+86|Emailchemy|https://listserv.nd.edu/cgi-bin/wa?A2=ind1306&amp;L=CODE4LIB&amp;P=R4590&amp;1=CODE4LIB&amp;9=A&amp;J=on&amp;d=No+Match%3BMatch%3BMatches&amp;z=4|Bad response - worth checking
+86|Emailchemy|http://www.weirdkid.com/blog/category/feedback/|404
+86|Emailchemy|http://tmsearch.uspto.gov/bin/showfield?f=doc&amp;state=4802:l1ihpx.2.1|Bad response - worth checking
+86|Emailchemy|https://www.openhub.net/projects/Emailchemy/widgets/project_basic_stats?format=js|200
+86|Emailchemy|http://www.weirdkid.com/products/emailchemy/versionhistory.html|404
+86|Emailchemy|http://emailchemy.en.softonic.com|200
+86|Emailchemy|http://dx.doi.org/10.7207/twr11-01|200
+86|Emailchemy|https://listserv.nd.edu/cgi-bin/wa?A2=ind1306&L=CODE4LIB&P=R4590&1=CODE4LIB&9=A&J=on&d=No+Match%3BMatch%3BMatches&z=4|Bad response - worth checking
+86|Emailchemy|http://www.weirdkid.com/blog/2013/08/04/emailchemys-new-de-duplication-feature/|200
+86|Emailchemy|https://groups.google.com/d/msg/digital-curation/srt-oIVwAGU/ExH2kAb9BgAJ|200
+86|Emailchemy|http://download.cnet.com/Emailchemy/3000-2369_4-10154305.html|200
+952|EmbARC|https://www.portalmedia.com/|200
+952|EmbARC|https://www.EmbARC.png/200px-EmbARC.png|Bad response - worth checking
+952|EmbARC|http://www.digitizationguidelines.gov/guidelines/embARC.html|200
+952|EmbARC|https://github.com/LibraryOfCongress/embARC|200
+952|EmbARC|https://docs.google.com/document/d/1twXVvNwsQdc-u_kHyURyjmKQl3R7bOpYX_Po0uXJVXk/edit|200
+952|EmbARC|http://www.digitizationguidelines.gov/guidelines/MXF_app_spec.html|200
+952|EmbARC|http://www.digitizationguidelines.gov/|200
+952|EmbARC|https://blogs.loc.gov/thesignal/2021/09/fadgi-embarc/?loclr=eadpb|200
+952|EmbARC|https://www.EmbARC.png/100px-EmbARC.png|Bad response - worth checking
+952|EmbARC|https://docs.google.com/document/d/1lHL2ZQJ8Z2Yhpkjhk4ci0l0vHpsbjXgZZvr8umLSebM/edit|200
+952|EmbARC|http://www.digitizationguidelines.gov/guidelines/digitize-DPXembedding.html|200
+952|EmbARC|https://www.weareavp.com/|200
+952|EmbARC|https://www.EmbARC.png/150px-EmbARC.png|Bad response - worth checking
+385|Embedding Repositories Self-Assessment Tool|http://www.rsp.ac.uk/embeddingguide/|200
+385|Embedding Repositories Self-Assessment Tool|https://www.openhub.net/projects/Embedding%20Repositories%20Self-Assessment%20Tool/widgets/project_basic_stats?format=js|200
+385|Embedding Repositories Self-Assessment Tool|http://creativecommons.org/licenses/by-nc-sa/2.0/|200
+385|Embedding Repositories Self-Assessment Tool|http://www.rsp.ac.uk/embeddingguide/self-assessment-tool/|200
+143|EnCase Forensic|https://www.openhub.net/projects/EnCase%20Forensic%20%28OpenText%29/widgets/project_basic_stats?format=js|200
+143|EnCase Forensic|http://www.guidancesoftware.com/forensic.htm|404
+47|EnCase eDiscovery|http://www.guidancesoftware.com/ediscovery.htm|404
+47|EnCase eDiscovery|https://www.openhub.net/projects/EnCase%20eDiscovery/widgets/project_basic_stats?format=js|200
+462|EpubCheck|http://www.idpf.org/|200
+462|EpubCheck|http://www.smashwords.com/epubcheck/|200
+462|EpubCheck|https://itunes.apple.com/us/app/epub-checker/id453480324/|404
+462|EpubCheck|https://www.openhub.net/projects/epubcheck/widgets/project_basic_stats?format=js|200
+462|EpubCheck|http://www.pagina-online.de/produkte/epub-checker/|200
+462|EpubCheck|https://github.com/IDPF/epubcheck/commits/master.atom|404
+462|EpubCheck|http://epubvalidator.com/|404
+462|EpubCheck|https://groups.google.com/forum/#!forum/epubcheck/|200
+462|EpubCheck|https://blog.safaribooksonline.com/2010/12/16/running-epubcheck-on-your-computer/|Bad response - worth checking
+462|EpubCheck|https://github.com/IDPF/epubcheck|200
+462|EpubCheck|http://www.daisy.org/|200
+462|EpubCheck|https://github.com/IDPF/epubcheck/releases.atom|200
+462|EpubCheck|https://github.com/IDPF/epubcheck/wiki/|200
+462|EpubCheck|https://github.com/IDPF/epubcheck/releases/tag/v3.0.1/|200
+462|EpubCheck|http://www.thaiopensource.com/relaxng/jing.html/|404
+462|EpubCheck|http://opensource.org/licenses/BSD-3-Clause/|200
+462|EpubCheck|http://opensource.com/life/14/9/open-source-tools-prepare-your-ebooks-publication/|200
+462|EpubCheck|http://blogs.adobe.com/digitaleditions/2007/12/epubchecker.html/|404
+462|EpubCheck|https://groups.google.com/forum/#%21forum/epubcheck/|200
+462|EpubCheck|http://validator.idpf.org/|504
+462|EpubCheck|https://github.com/IDPF/epubcheck/releases/|200
+462|EpubCheck|http://idpf.org/|200
+262|Eraser|https://www.openhub.net/projects/Eraser/widgets/project_basic_stats?format=js|200
+262|Eraser|https://eraser.heidi.ie/forum/threads/eraser-needs-administrative-privileges-to-use.10291/|200
+262|Eraser|http://eraser.heidi.ie/|200
+992|EssArch|https://www.essolutions.se/essarch/|200
+1033|ExactFile|https://www.exactfile.com/exf/|200
+739|Exact Audio Copy|http://www.exactaudiocopy.de/en/index.php/resources/whats-new/whats-new/|200
+739|Exact Audio Copy|http://journal.code4lib.org/articles/9581|200
+739|Exact Audio Copy|http://wiki.hydrogenaud.io/index.php?title=Category:EAC_Guides|200
+739|Exact Audio Copy|http://www.exactaudiocopy.de|200
+739|Exact Audio Copy|http://www.digital-inn.de/forums/exact-audio-copy-english.14/|404
+739|Exact Audio Copy|https://archives.library.illinois.edu/staff-resources/digital-workflow/born-digital-workflow/accessioning/extract-from-source-media/ripping-audio-records-using-exact-audio-copy/|200
+739|Exact Audio Copy|http://campuspress.yale.edu/borndigital/2016/12/20/to-image-or-copy-the-compact-disc-digital-audio-dilemma/|200
+749|Exactly|https://www.weareavp.com/|200
+749|Exactly|https://www.weareavp.com/products/exactly/|200
+749|Exactly|https://groups.google.com/forum/#!forum/exactly-users|200
+749|Exactly|https://vimeo.com/200403270|200
+749|Exactly|https://github.com/WeAreAVP/uk-exactly/|200
+749|Exactly|https://www.openhub.net/projects/exactly/widgets/project_basic_stats?format=js|200
+749|Exactly|https://www.Exactly-50-small-300x279.png/150px-Exactly-50-small-300x279.png|Bad response - worth checking
+749|Exactly|https://www.Exactly-50-small-300x279.png/200px-Exactly-50-small-300x279.png|Bad response - worth checking
+749|Exactly|https://www.openhub.net/p/exactly|200
+749|Exactly|https://www.apache.org/licenses/LICENSE-2.0|200
+749|Exactly|https://www.Exactly-50-small-300x279.png/100px-Exactly-50-small-300x279.png|Bad response - worth checking
+638|Exempi|https://www.openhub.net/projects/exempi/widgets/project_basic_stats?format=js|200
+638|Exempi|http://libopenraw.freedesktop.org/wiki/Exempi|200
+208|ExifTool|http://web.archive.org/web/20080307105031/http://blog.merg.be/?p=242|200
+208|ExifTool|http://owl.phy.queensu.ca/~phil/exiftool/rss.xml|200
+208|ExifTool|http://www.sno.phy.queensu.ca/~phil/exiftool/ExifTool-9.82.dmg|404
+208|ExifTool|http://www.sno.phy.queensu.ca/~phil/exiftool/|200
+208|ExifTool|http://www.kost-ceco.ch/cms/index.php?preservation_tiff_de|200
+208|ExifTool|http://www.sno.phy.queensu.ca/~phil/exiftool/faq.html|200
+208|ExifTool|http://www.sno.phy.queensu.ca/~phil/exiftool/exiftool-9.82.zip|Bad response - worth checking
+208|ExifTool|http://www.sno.phy.queensu.ca/~phil/exiftool/exiftool_pod.html|200
+208|ExifTool|http://www.christian-etter.de/?p=33|200
+208|ExifTool|https://www.openhub.net/projects/ExifTool/widgets/project_basic_stats?format=js|200
+208|ExifTool|http://u88.n24.queensu.ca/exiftool/forum/|504
+208|ExifTool|http://www.sno.phy.queensu.ca/~phil/exiftool/install.html|200
+199|Exiv2|https://www.openhub.net/projects/Exiv2/widgets/project_basic_stats?format=js|200
+199|Exiv2|http://www.exiv2.org|200
+104|Explore2fs|http://www.chrysocome.net/explore2fs|200
+104|Explore2fs|https://www.openhub.net/projects/Explore2fs/widgets/project_basic_stats?format=js|200
+144|FBCD (Farmer's Boot CD)|http://www.forensicbootcd.com/|200
+144|FBCD (Farmer's Boot CD)|https://www.openhub.net/projects/Farmer%27s%20Boot%20CD%20%28FBCD%29/widgets/project_basic_stats?format=js|200
+1025|FC5025|http://deviceside.com/fc5025.html|200
+145|FCCU GNU/Linux Forensic Boot CD|https://www.openhub.net/projects/FCCU%20GNU/Linux%20Forensic%20Boot%20CD/widgets/project_basic_stats?format=js|404
+145|FCCU GNU/Linux Forensic Boot CD|http://www.lnx4n6.be/|Bad response - worth checking
+962|FCIV|https://support.microsoft.com/en-us/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u|404
+1283|FFAStrans|https://ffastrans.com/wp/|200
+1283|FFAStrans|https://github.com/steipal/FFAStrans-Public|200
+87|FFmpeg|http://ffmpeg.org/ffmpeg.html|200
+87|FFmpeg|http://www.ffmpeg.org/|200
+87|FFmpeg|http://www.ffmpeg.org/ffmpeg-doc.html|200
+87|FFmpeg|https://www.openhub.net/projects/FFmpeg/widgets/project_basic_stats?format=js|200
+87|FFmpeg|https://amiaopensource.github.io/ffmprovisr/|200
+87|FFmpeg|http://coptr.digipres.org/QCTools|200
+87|FFmpeg|http://git.videolan.org/?p=ffmpeg.git;a=blob_plain;f=Changelog|200
+637|FIDOO|http://github.com/techmaurice/fidoo/commits|200
+637|FIDOO|http://www.techmaurice.com/fidoo/|Bad response - worth checking
+637|FIDOO|https://github.com/techmaurice/fidoo/issues|200
+21|FIDO (Format Identification for Digital Objects)|http://www.openpreservation.org/software/fido|200
+21|FIDO (Format Identification for Digital Objects)|http://wiki.opf-labs.org/display/KB/Getting%20Started%20with%20the%20OPF|200
+21|FIDO (Format Identification for Digital Objects)|http://github.com/openpreserve/fido|200
+21|FIDO (Format Identification for Digital Objects)|http://wiki.opf-labs.org/display/KB/FIDO+roadmap|200
+76|FITS (File Information Tool Set)|http://unixhelp.ed.ac.uk/CGI/man-cgi?file|504
+76|FITS (File Information Tool Set)|http://projects.iq.harvard.edu/fits/understanding-output|200
+76|FITS (File Information Tool Set)|https://wiki.dnb.de/display/NESTOR/ZBW+user+experience+with+FITS|200
+76|FITS (File Information Tool Set)|http://openpreservation.org/blog/2017/05/17/preservation-impact-assessments-how-preservation-tools-support-naneths-connection-projects/|200
+76|FITS (File Information Tool Set)|https://projects.iq.harvard.edu/fits/downloads#fits-servlet|200
+76|FITS (File Information Tool Set)|http://github.com/harvard-lts/fits/commits|200
+76|FITS (File Information Tool Set)|https://github.com/harvard-lts/fits|200
+76|FITS (File Information Tool Set)|http://fitstool.org|200
+76|FITS (File Information Tool Set)|http://projects.iq.harvard.edu/fits/fits-xml|200
+76|FITS (File Information Tool Set)|http://hul.harvard.edu/ois/systems/drs/|404
+76|FITS (File Information Tool Set)|http://www.gnu.org/licenses/lgpl.html|200
+76|FITS (File Information Tool Set)|http://web.archive.org/web/20061106114156/http://schmidt.devlib.org/ffident/index.html|200
+147|FTK (Forensic Toolkit)|https://groups.google.com/forum/#!topic/digital-curation/5hCOY0bMTX4|200
+147|FTK (Forensic Toolkit)|https://www.openhub.net/projects/Forensic%20Toolkit%20%28AccessData%29/widgets/project_basic_stats?format=js|200
+147|FTK (Forensic Toolkit)|http://accessdata.com/|200
+386|Fedora Commons|http://projecthydra.org|200
+386|Fedora Commons|http://www.fedora-commons.org/community/developers/devlist|404
+386|Fedora Commons|https://wiki.duraspace.org/display/FF/Fedora+Futures+Home|404
+386|Fedora Commons|http://www.fedora-commons.org/resources/serviceproviders|404
+386|Fedora Commons|http://islandora.ca|200
+386|Fedora Commons|https://wiki.duraspace.org/display/FCCommReg/Fedora+Commons+Registry|200
+386|Fedora Commons|http://fedora-commons.org/|200
+386|Fedora Commons|http://www.fedora-commons.org/community/userlist|404
+386|Fedora Commons|https://wiki.duraspace.org/display/FEDORA/Home|200
+386|Fedora Commons|http://www.apache.org/licenses/LICENSE-2.0.html|200
+180|FileAlyzer|https://www.safer-networking.org/products/filealyzer/#desc|200
+180|FileAlyzer|https://www.openhub.net/projects/FileAlyzer/widgets/project_basic_stats?format=js|200
+180|FileAlyzer|https://web.archive.org/web/20040213003425/http://www.safer-networking.org/index.php?page=filealyzer|200
+180|FileAlyzer|http://www.safer-networking.org/en/filealyzer/|200
+180|FileAlyzer|https://en.wikipedia.org/wiki/Microsoft_Windows|200
+717|FileVerifier++|http://www.programmingunlimited.net/siteexec/content.cgi?page=fv|200
+674|File Analyzer and Metadata Harvester V2|http://georgetown-university-libraries.github.io/File-Analyzer/|200
+674|File Analyzer and Metadata Harvester V2|https://www.openhub.net/projects/File%20Analyzer%20and%20Metadata%20Harvester%20V2/widgets/project_basic_stats?format=js|200
+674|File Analyzer and Metadata Harvester V2|https://github.com/terrywbrady|200
+674|File Analyzer and Metadata Harvester V2|http://georgetown-university-libraries.github.io/File-Analyzer/|200
+1262|File Format Identification Pronom|https://metacpan.org/release/File-FormatIdentification-Pronom|200
+1262|File Format Identification Pronom|https://kulturreste.blogspot.com/2018/10/heres-tool-make-it-work.html|200
+1262|File Format Identification Pronom|https://www.nationalarchives.gov.uk/PRONOM/|200
+246|Filzip|http://filzip.com/|200
+285|Find It! Keep It!|http://www.ansemond.com/|200
+70|Fine Free File Command|http://www.darwinsys.com/file/|200
+563|Fingerdet|http://openplanetsfoundation.com/blogs/2014-07-10-new-qa-tool-finger-detection-scans|Bad response - worth checking
+563|Fingerdet|https://github.com/openplanets/finger-detection-tool|200
+127|Fixi|https://github.com/cwilper/fixi/|200
+127|Fixi|http://cwilper.blogspot.com/|200
+127|Fixi|https://github.com/cwilper/fixi/blob/master/README.md|200
+676|Fixit tiff|https://art1pirat.spdns.org/art1/fixit_tiff|200
+676|Fixit tiff|https://kulturreste.blogspot.com/search?q=fixit_tiff|200
+676|Fixit tiff|http://libtiff.maptools.org/|200
+1217|Fixity|http://doi.org/10.7207/twgn20-12|200
+1217|Fixity|http://qanda.digipres.org/tag/fixity|200
+1217|Fixity|http://qanda.digipres.org/332/what-tools-do-you-use-for-the-ongoing-monitoring-of-checksums|200
+1290|Fixity Pro|https://www.weareavp.com/products/fixity-pro|200
+542|Flint|https://github.com/openplanets/flint|200
+542|Flint|http://www.openplanetsfoundation.org/blogs/2014-07-02-introducing-flint|200
+963|FolderMatch|http://www.foldermatch.com/|406
+123|Foremost|http://foremost.sourceforge.net/|200
+1121|Forensic|http://www.forensicswiki.org/wiki/Tools|Bad response - worth checking
+937|Forensic Acquisition Utilities|https://web.archive.org/web/20160719193011/http://www.gmgsystemsinc.info/fau/7d137db0-ae88-4519-a29e-42f5c5d591de/FAU-1.5.0.2525.zip|200
+937|Forensic Acquisition Utilities|http://www.gmgsystemsinc.info/fau/|200
+146|Forensic Acquistion Utilities|https://web.archive.org/web/20160719193011/http://www.gmgsystemsinc.info/fau/7d137db0-ae88-4519-a29e-42f5c5d591de/FAU-1.5.0.2525.zip|200
+146|Forensic Acquistion Utilities|http://www.gmgsystemsinc.info/fau/|200
+982|FreeCommander|https://freecommander.com/en/summary/|200
+982|FreeCommander|https://freecommander.com/en/license/|200
+982|FreeCommander|https://freecommander.com/forum/|200
+970|Free Video Cutter Joiner|https://filehippo.com/de/download_free_video_cutter_joiner/|200
+148|Freeware Hex Editor XVI32|http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm|200
+649|Fslint|http://blogmymix.blogspot.com/2010/04/de-duplicate-with-fslint.html|200
+649|Fslint|http://www.bitcurator.net|500
+649|Fslint|https://raw.githubusercontent.com/pixelb/fslint/master/doc/FAQ|200
+649|Fslint|http://wiki.bitcurator.net/index.php?title=Identify_and_delete_duplicate_files|Bad response - worth checking
+649|Fslint|http://www.pixelbeat.org/fslint/|200
+649|Fslint|http://www.linuxjournal.com/content/fslint-annoyingly-vague-useful|200
+649|Fslint|http://en.flossmanuals.net/FSlint/|404
+649|Fslint|http://www.adercon.com/ac/node/56|406
+1185|Further information about workflows|https://bitcuratorconsortium.org/workflows|403
+1185|Further information about workflows|https://educopia.org/research/ossarcflow|403
+1185|Further information about workflows|https://github.com/amiaopensource/open-workflows|200
+1185|Further information about workflows|http://www.libraryworkflowexchange.org/|200
+1185|Further information about workflows|https://nationalarchives.gov.uk/archives-sector/projects-and-programmes/plugged-in-powered-up/digital-preservation-workflows/|200
+227|GFI MailArchiver|http://www.gfi.com/mailarchiver/|200
+1250|GIF|https://www.wikidata.org/wiki/Q2192|200
+968|GImageReader|https://github.com/manisandro/gImageReader|200
+311|GNU Diffutils|http://www.gnu.org/software/diffutils/|200
+286|GNU Wget|http://eternallybored.org/misc/wget/|200
+286|GNU Wget|http://coolestguidesontheplanet.com/install-and-configure-wget-on-os-x/|200
+286|GNU Wget|http://www.gnu.org/software/wget/|200
+286|GNU Wget|http://wget.addictivecode.org/FrequentlyAskedQuestions#How_do_I_compile_Wget.3F|200
+286|GNU Wget|http://www.archiveteam.org/index.php?title=Wget|200
+286|GNU Wget|http://www.archiveteam.org/index.php?title=Wget_with_WARC_output|200
+286|GNU Wget|http://www.gnu.org/software/wget/manual/wget.html|200
+286|GNU Wget|http://programminghistorian.org/lessons/automated-downloading-with-wget|200
+286|GNU Wget|http://wget.addictivecode.org/Wget|200
+182|GNU libextractor|http://savannah.gnu.org/projects/libextractor|200
+974|Geosetter|http://geosetter.de/en/main-en/|200
+112|GetDataBack|http://www.runtime.org/data-recovery-software.htm|200
+171|GetDriveInfo2|http://getdriveinfo2.sourceforge.net/|200
+181|GetID3()|http://www.getid3.org/phpBB3/viewforum.php?f=3|200
+181|GetID3()|http://getid3.sourceforge.net/|200
+362|Getting Started|http://www.mediawiki.org/wiki/Manual:Configuration_settings|200
+362|Getting Started|http://www.mediawiki.org/wiki/Manual:FAQ|200
+362|Getting Started|http://meta.wikimedia.org/wiki/Help:Contents|200
+362|Getting Started|https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce|200
+327|Glacier (Amazon)|https://aws.amazon.com/glacier/|200
+742|Goobi|https://goobi.io/goobi-workflow/?lang=en|200
+742|Goobi|https://www.intranda.com/en/uber-uns/referenzen/|200
+742|Goobi|https://github.com/intranda/goobi-workflow/commits|200
+328|Google Cloud|https://cloud.google.com/products/cloud-storage|200
+945|Greens|https://github.com/ndlib/noids|200
+1005|Greenstone|http://trac.greenstone.org/timeline|200
+1005|Greenstone|http://trac.greenstone.org/report/1?asc=0&sort=modified&USER=anonymous|200
+1005|Greenstone|http://www.greenstone.org/|200
+338|Guidelines for contributing to COPTR|http://www.unt.edu/|200
+338|Guidelines for contributing to COPTR|https://www.mediawiki.org/wiki/Help:Formatting|200
+338|Guidelines for contributing to COPTR|http://vimeo.com/107879014|200
+210|Gumshoe|https://github.com/anarchivist/gumshoe|200
+647|Gvfs-info|https://git.gnome.org/browse/gvfs/|200
+647|Gvfs-info|https://developer.gnome.org/gio/2.32/gio-GFileAttribute.html|200
+647|Gvfs-info|https://wiki.gnome.org/action/show/Projects/gvfs?action=show&redirect=gvfs|200
+247|Gzip|http://www.gzip.org/|200
+228|HP Integrated Archive Platform|http://h18000.www1.hp.com/products/storageworks/riss/index.html|Bad response - worth checking
+289|HTTrack|https://forum.httrack.com/|200
+289|HTTrack|http://www.httrack.com/|200
+289|HTTrack|https://www.httrack.com/html/index.html|200
+289|HTTrack|https://github.com/xroche|200
+289|HTTrack|http://www.gnu.org/licenses/quick-guide-gplv3.html|200
+289|HTTrack|http://github.com/xroche/httrack/commits|200
+561|HTTrack2Arc|https://code.google.com/p/httrack2arc/|200
+561|HTTrack2Arc|http://www.httrack.com/|200
+561|HTTrack2Arc|https://code.google.com/p/httrack2arc/wiki/HowtoRun|200
+971|HandBrake|https://handbrake.fr/|200
+149|HashKeeper|http://www.usdoj.gov/ndic/domex/hashkeeper.htm|200
+150|Helix (e-fense)|http://www.e-fense.com/|406
+287|Heritrix|https://webarchive.jira.com/wiki/display/Heritrix/Users+of+Heritrix|200
+287|Heritrix|http://crawler.archive.org|200
+287|Heritrix|http://github.com/internetarchive/heritrix3/commits|200
+287|Heritrix|http://crawler.archive.org/articles/user_manual/|200
+287|Heritrix|https://webarchive.jira.com/wiki/display/Heritrix/Heritrix+3.0+and+3.1+User+Guide|200
+287|Heritrix|http://www.apache.org/licenses/LICENSE-2.0.html|200
+287|Heritrix|http://www.dcc.ac.uk/node/9394|404
+287|Heritrix|https://groups.yahoo.com/neo/groups/archive-crawler/info|200
+287|Heritrix|http://www.dcc.ac.uk/node/9380|404
+287|Heritrix|https://webarchive.jira.com/wiki/display/Heritrix/Heritrix|200
+287|Heritrix|http://www.java.com/en/download/index.jsp|200
+288|Heritrix plug-in for rich media capture|http://code.google.com/p/liwa-technologies/|200
+151|Hex Workshop|http://www.hexworkshop.com/|200
+658|HoliRisk|http://holirisk.sysresearch.org/|200
+658|HoliRisk|http://www.dpconline.org/members/conference-reports/1452-dpc-tech-bytes-webinar-ricardo-vieira|200
+329|Hoppla|http://www.ifs.tuwien.ac.at/dp/hoppla/release/index.html|200
+583|How COPTR Works|https://github.com/digipres/coptr|200
+583|How COPTR Works|http://coptr.digipres.org/index.php?title=Main_Page&useskin=bootstrap|500
+583|How COPTR Works|http://www.mediawiki.org/wiki/Manual:Pywikibot|200
+583|How COPTR Works|https://www.mediawiki.org/wiki/Extension_talk:Contribution_Credits#Contributor_Name_and_Percentage_Score|200
+583|How COPTR Works|http://www.mediawiki.org/wiki/Help:Bots|200
+706|HxD|https://mh-nexus.de/en/hxd/|200
+706|HxD|http://mh-nexus.de/hxd|200
+706|HxD|https://mh-nexus.de/en/hxd/license.php|200
+152|I2|http://www.i2group.com/us|200
+54|IBM Digital Asset Preservation Tool|http://www.alphaworks.ibm.com/tech/uvc/download|200
+387|ICA-AtoM|http://ica-atom.org/|200
+387|ICA-AtoM|http://ica-atom.org/doc/Main_Page|200
+387|ICA-AtoM|http://ica-atom.org/doc/ICA-AtoM_users|200
+387|ICA-AtoM|http://www.gnu.org/licenses/agpl.html|200
+387|ICA-AtoM|https://www.accesstomemory.org/|200
+387|ICA-AtoM|https://www.accesstomemory.org/docs/latest/admin-manual/installation/upgrading/|200
+387|ICA-AtoM|https://www.accesstomemory.org/en/download/|200
+387|ICA-AtoM|https://www.ica-atom.org/doc/Minimum_requirements|200
+1205|IIIF (International Image Interoperability Framework)|https://iiif.io/|200
+1205|IIIF (International Image Interoperability Framework)|https://github.com/IIIF/awesome-iiif|200
+458|IIPImage|http://iipimage.sourceforge.net/|200
+458|IIPImage|http://iipimage.sourceforge.net/2013/06/open-access-with-iipimage-at-ghent-university-library/|200
+153|ILookPI|http://www.perlustro.com/|200
+172|IMAGE|http://www.digitalintelligence.com/software/disoftware/image/|200
+273|IMacros|https://www.progress.com/imacros|200
+39|IN-SPIRE Visual Document Analysis|http://in-spire.pnnl.gov/|200
+271|IRODS (integrated Rule Oriented Data Systems)|http://irods.org/index.php/Downloads|404
+271|IRODS (integrated Rule Oriented Data Systems)|https://www.irods.org/index.php/Documentation|Bad response - worth checking
+271|IRODS (integrated Rule Oriented Data Systems)|https://www.irods.org/index.php/Collaborators|Bad response - worth checking
+271|IRODS (integrated Rule Oriented Data Systems)|http://irods.org/index.php/iCAT_Platforms|404
+271|IRODS (integrated Rule Oriented Data Systems)|https://www.irods.org/index.php/IRODS:Data_Grids,_Digital_Libraries,_Persistent_Archives,_and_Real-time_Data_Systems|Bad response - worth checking
+271|IRODS (integrated Rule Oriented Data Systems)|http://www.linfo.org/bsdlicense.html|200
+271|IRODS (integrated Rule Oriented Data Systems)|http://www.dcc.ac.uk/resources/external/srb|404
+183|IText|http://wiki.opf-labs.org/display/AQuA/PDF+Characterisation+Tool|200
+183|IText|http://wiki.opf-labs.org/display/AQuA/Unknown+PDF+characteristics|200
+183|IText|http://itextpdf.com/|200
+257|ImageMagick|http://www.imagemagick.org|200
+257|ImageMagick|https://wiki.dnb.de/pages/viewpage.action?pageId=123046041|200
+257|ImageMagick|http://www.imagemagick.org/download|200
+209|ImageVerifier|http://basepath.com/site/detail-ImageVerifier.php|200
+388|ImpactStory|http://www.opensource.org/licenses/mit-license.php|200
+388|ImpactStory|http://impactstory.org/faq|200
+388|ImpactStory|http://impactstory.org/|200
+388|ImpactStory|http://impactstory.org/faq#toc_3_7|200
+388|ImpactStory|http://blog.impactstory.org/|406
+388|ImpactStory|http://github.com/Impactstory/total-impact-webapp/commits|200
+388|ImpactStory|http://altmetrics.org/manifesto/|406
+388|ImpactStory|https://github.com/Impactstory|200
+388|ImpactStory|https://twitter.com/ImpactStory|200
+388|ImpactStory|https://groups.google.com/forum/?fromgroups#!forum/total-impact|200
+388|ImpactStory|https://github.com/mhahnel/Total-Impact/wiki/Plugin-requirements|200
+229|InBoxer|https://denysdovhan.com/inboxer/|200
+191|Index.dat Analyzer v2.5|http://www.systenance.com/indexdat.php|200
+154|InfinaDyne|http://www.infinadyne.com/|200
+230|Invenio|http://invenio-software.org/|200
+248|IrfanView|http://www.kost-ceco.ch/cms/index.php?preservation_tiff_de|200
+248|IrfanView|http://www.irfanview.com/|200
+516|IsoBuster|http://www.isobuster.com/help/use_of_command_line_parameters|200
+516|IsoBuster|http://arxiv.org/abs/1309.4932|200
+516|IsoBuster|http://www.isobuster.com/|200
+516|IsoBuster|http://www.isobuster.com/news/|200
+280|JHOVE2|https://bytebucket.org/jhove2/main/wiki/documents/JHOVE2-Users-Guide_20110222.pdf|404
+280|JHOVE2|http://www.linfo.org/bsdlicense.html|200
+280|JHOVE2|https://bitbucket.org/jhove2/main/wiki/Home|404
+280|JHOVE2|http://www.dcc.ac.uk/resources/external/pronom|404
+280|JHOVE2|http://jhove2.org/|200
+280|JHOVE2|https://bytebucket.org/jhove2/main/wiki/documents/JHOVE2Programmer2-0-0.pdf|404
+279|JHOVE (Harvard Object Validation Environment)|http://hul.harvard.edu/jhove/using.html|404
+279|JHOVE (Harvard Object Validation Environment)|http://sourceforge.net/projects/jhove/|200
+279|JHOVE (Harvard Object Validation Environment)|http://wiki.opf-labs.org/display/Documents/JHOVE+issues+and+error+messages/|200
+279|JHOVE (Harvard Object Validation Environment)|http://www.pdfa.org/2014/12/ensuring-long-term-access-pdf-validation-with-jhove/|200
+279|JHOVE (Harvard Object Validation Environment)|http://github.com/openpreserve/jhove/commits|200
+279|JHOVE (Harvard Object Validation Environment)|http://www.dcc.ac.uk/webfm_send/109|404
+279|JHOVE (Harvard Object Validation Environment)|https://fileformats.wordpress.com/tag/jhove/|200
+279|JHOVE (Harvard Object Validation Environment)|http://openpreservation.org/|200
+279|JHOVE (Harvard Object Validation Environment)|http://www.jisc.ac.uk/media/documents/programmes/preservation/daat_file_format_tools_report.pdf|200
+279|JHOVE (Harvard Object Validation Environment)|http://www.gnu.org/licenses/lgpl.html|200
+279|JHOVE (Harvard Object Validation Environment)|http://jhove.openpreservation.org/|200
+253|JJ2000|http://code.google.com/feeds/p/jj2000/updates/basic|404
+253|JJ2000|http://jpeg2000.epfl.ch/|Bad response - worth checking
+253|JJ2000|http://code.google.com/p/jj2000/updates/list|200
+253|JJ2000|http://code.google.com/p/jj2000/|200
+1242|JP2|https://www.wikidata.org/wiki/Q27979401|200
+55|JPC|http://jpc.sourceforge.net/home_home.html|200
+1243|JPEG|https://www.wikidata.org/wiki/Q27996264|200
+524|JWAT|https://openpreservation.org/blogs/warc-validation-tool-experiences/?order=date:DESC&page=1|200
+524|JWAT|https://sbforge.org/display/JWAT/JWAT-Tools|200
+524|JWAT|http://wiki.opf-labs.org/display/SP/ARC2WARC+Experiment+at+ONB|200
+524|JWAT|http://jwat.org/|200
+207|JabRef|https://www.jabref.org/|200
+106|Java library implementing Pairtree|http://sourceforge.net/projects/loc-xferutils/files/loc-pairtree-java-library/|200
+276|Jp2StructCheck|http://wiki.opf-labs.org/display/SP/SO1+Simple+JP2+file+structure+checker|200
+276|Jp2StructCheck|http://www.openplanetsfoundation.org/blogs/2011-09-01-simple-jp2-file-structure-checker%7Chttp://www.openplanetsfoundation.org/blogs/2011-09-01-simple-jp2-file-structure-checker|200
+276|Jp2StructCheck|https://github.com/bitsgalore/jp2StructCheck|200
+277|Jpylyzer|http://www.openpreservation.org/blogs/2011-12-14-prototype-jp2-validator-and-properties-extractor|200
+277|Jpylyzer|http://jpylyzer.openpreservation.org/|200
+155|KEA (Keyphrase Extraction Algorithm)|http://www.nzdl.org/Kea/|200
+155|KEA (Keyphrase Extraction Algorithm)|http://code.google.com/p/kea-algorithm/downloads/list|200
+330|KEEP Emulation Framework|http://emuframework.sourceforge.net/documentation.html|200
+330|KEEP Emulation Framework|http://emuframework.sourceforge.net/|200
+330|KEEP Emulation Framework|http://www.apache.org/licenses/LICENSE-2.0.html|200
+678|KOST-Simy|http://github.com/KOST-CECO/KOST-Simy/issues|200
+678|KOST-Simy|http://github.com/KOST-CECO/KOST-Simy/commits|200
+678|KOST-Simy|http://kost-ceco.ch/cms/index.php?kost_simy_de|200
+678|KOST-Simy|http://github.com/KOST-CECO/KOST-Simy/releases|200
+678|KOST-Simy|https://github.com/KOST-CECO/KOST-Simy/releases|200
+508|KOST-Val|http://github.com/KOST-CECO/KOST-Val/releases|200
+508|KOST-Val|http://kost-ceco.ch/cms/index.php?kost_val_de|200
+508|KOST-Val|http://github.com/KOST-CECO/KOST-Val/commits|200
+508|KOST-Val|http://github.com/KOST-CECO/KOST-Val/issues|200
+508|KOST-Val|http://www.gnu.org/licenses/quick-guide-gplv3.html|200
+508|KOST-Val|https://www.ech.ch/ech/ech-0165|200
+389|KRDS (Keeping Research Data Safe) Benefits Analysis Toolkit|http://www.beagrie.com/KRDS_ValueChainImpactTool_Guide_v1July2011.pdf|200
+389|KRDS (Keeping Research Data Safe) Benefits Analysis Toolkit|http://www.beagrie.com/KeepingResearchDataSafe_UserGuide_v2.pdf|200
+389|KRDS (Keeping Research Data Safe) Benefits Analysis Toolkit|http://creativecommons.org/licenses/by-nc-nd/2.0/uk/|200
+389|KRDS (Keeping Research Data Safe) Benefits Analysis Toolkit|http://www.beagrie.com/intro_benefits%20analysis%20toolkit_0711.pdf|200
+389|KRDS (Keeping Research Data Safe) Benefits Analysis Toolkit|http://www.beagrie.com/KRDS_BenefitsFramework_Guidev3_July%202011.pdf|200
+389|KRDS (Keeping Research Data Safe) Benefits Analysis Toolkit|http://beagrie.com/krds-i2s2.php|200
+254|Kakadu|http://wiki.opf-labs.org/display/JP2/Example+JP2+profiles|200
+254|Kakadu|http://www.kakadusoftware.com/|200
+200|Karen's Directory Printer|http://www.karenware.com/powertools/ptdirprn.asp|200
+184|Keith Humphreys' PhraseRate|http://ivia.ucr.edu/projects/PhraseRate/|504
+390|Kepler|http://ptolemy.eecs.berkeley.edu/ptolemyII|200
+390|Kepler|https://kepler-project.org/users/documentation|404
+390|Kepler|http://digir.net/|200
+390|Kepler|https://kepler-project.org/|200
+390|Kepler|https://kepler-project.org/users/faq|404
+390|Kepler|https://kepler-project.org/users/projects-using-kepler|404
+390|Kepler|http://www.sdsc.edu/News%20Items/PR062812_kepler.html|200
+390|Kepler|http://seek.ecoinformatics.org/Wiki.jsp%3Fpage=EcoGrid.html|200
+390|Kepler|https://kepler-project.org/users/support|404
+390|Kepler|http://opendap.org/|200
+390|Kepler|http://daks.ucdavis.edu/?page_id=205|504
+390|Kepler|http://www.opensource.org/licenses/bsd-license.php|200
+390|Kepler|http://lists.nceas.ucsb.edu/kepler/mailman/listinfo/kepler-users|200
+390|Kepler|https://kepler-project.org/users/whats-new/reporting-2.4-suitereleased|404
+390|Kepler|http://knb.ecoinformatics.org/software/eml/|Bad response - worth checking
+56|Kernel-based virtual machine|http://www.linux-kvm.org/page/Main_Page|200
+306|Khtml2png|http://khtml2png.sourceforge.net/|200
+231|KoLibRI (Kopal Library for Retrieval and Ingest)|http://kopal.langzeitarchivierung.de/index_koLibRI.php.en|200
+1003|Kraken|https://github.com/mittagessen/kraken/commits|200
+1003|Kraken|http://kraken.re/|200
+1003|Kraken|https://github.com/tmbarchive/ocropy|200
+1003|Kraken|https://github.com/mittagessen/kraken/issues|200
+556|KryoFlux|http://www.kryoflux.com/|200
+556|KryoFlux|http://www.softpres.org/|200
+556|KryoFlux|http://en.wikipedia.org/wiki/Disk_image|200
+556|KryoFlux|http://www.softpres.org/glossary:ipf|200
+556|KryoFlux|http://openplanetsfoundation.org/blogs/2014-06-26-bulk-disk-imaging-and-disk-format-identification-kryoflux|200
+272|LOCKSS (Lots of Copies Keep Stuff Safe)|http://www.lockssalliance.ac.uk/|Bad response - worth checking
+272|LOCKSS (Lots of Copies Keep Stuff Safe)|http://www.lockss.org/locksswp/wp-content/uploads/2011/12/LOCKSS-Network-Data-Transition.pdf|404
+272|LOCKSS (Lots of Copies Keep Stuff Safe)|http://www.lockss.org/locksswp/wp-content/uploads/2011/12/LOCKSS-Linux-Install1.pdf|200
+272|LOCKSS (Lots of Copies Keep Stuff Safe)|http://lockss.stanford.edu/lockss/Software_License|404
+272|LOCKSS (Lots of Copies Keep Stuff Safe)|http://www.lockss.org/|200
+391|LabTrove|http://www.labtrove.org/documentation/|403
+391|LabTrove|http://sourceforge.net/apps/mediawiki/labtrove|200
+391|LabTrove|http://sourceforge.net/tracker/?group_id=338145&atid=1416342|200
+391|LabTrove|http://www.dcc.ac.uk/resource/external/myexperiment|404
+391|LabTrove|http://www.labtrove.org|403
+391|LabTrove|http://www.opensource.org/licenses/BSD-3-Clause|200
+391|LabTrove|http://www.labtrove.org/users/|403
+391|LabTrove|http://sourceforge.net/tracker/?group_id=338145&atid=1416339|200
+391|LabTrove|http://www.dcc.ac.uk/projects/srf|200
+1287|LegacyFileConverter|http://www.columbia.edu/~em36/legacyfileconverter.html|200
+268|Legacy Locker|http://legacylocker.com/|403
+137|Libewf|http://sourceforge.net/projects/libewf/|200
+71|Libmagic-dev|http://packages.debian.org/unstable/libdevel/libmagic-dev|200
+24|Library of Congress Newspaper Viewer|http://sourceforge.net/projects/loc-ndnp/|200
+961|Libreoffice|https://ask.libreoffice.org/en/question/2590/convert-files-to-pdfa-on-command-line-headless-mode/|200
+961|Libreoffice|https://www.libreoffice.org/|200
+635|Libsafe|http://www.preservaciondigital.es|200
+635|Libsafe|https://www.libnova.com|200
+72|Libsharedmime|http://www.memecode.com/libsharedmime.php|504
+1224|Lifecycle Stages|https://www.dcc.ac.uk/guidance/curation-lifecycle-model|200
+1014|Limb Processing|https://www.limbsuite.com/limb-processing|200
+100|Lingfo|http://www.lexicon.net/sjmachin/xlrd.htm|200
+57|Linux-VServer|http://linux-vserver.org/Welcome_to_Linux-VServer.org|200
+1032|Lossless Cut|https://losslesscut.softfree.eu/|200
+88|LuraDocument PDF Compressor|http://www.luratech.com/home/products/software-and-solutions-for-document-processing/document-and-data-conversion-software/luradocument-pdf-compressor.html|200
+1251|MDB|https://www.wikidata.org/wiki/Q1931564|200
+958|MDB/ACCDB Viewer|https://twitter.com/anjacks0n/status/1106192047764131840|200
+958|MDB/ACCDB Viewer|https://eggerapps.at/mdbviewer/reviews.php|200
+958|MDB/ACCDB Viewer|https://eggerapps.at/mdbviewer/docs/en/whats-new.html|200
+958|MDB/ACCDB Viewer|https://eggerapps.at/mdbviewer/|200
+1007|METSFlask|https://github.com/tw4l/METSFlask|200
+1007|METSFlask|http://bitarchivist.pythonanywhere.com/|200
+1266|METS (Metadata Encoding and Transmission Standard)|https://www.wikidata.org/wiki/Q1640667|200
+1266|METS (Metadata Encoding and Transmission Standard)|https://github.com/mets|200
+1266|METS (Metadata Encoding and Transmission Standard)|http://www.loc.gov/standards/mets/|200
+1008|METS API|https://sourceforge.net/p/mets-api/code/commit_browser|200
+1008|METS API|https://sourceforge.net/projects/mets-api/|200
+1011|METS Navigator|https://sourceforge.net/p/metsnavigator/code/commit_browser|200
+1011|METS Navigator|http://metsnavigator.sourceforge.net/|200
+331|MIXED (Migration to Intermediate XML for Electronic Data)|https://sites.google.com/a/datanetworkservice.nl/mixed/|200
+331|MIXED (Migration to Intermediate XML for Electronic Data)|https://sites.google.com/a/datanetworkservice.nl/mixed/documentation|200
+331|MIXED (Migration to Intermediate XML for Electronic Data)|http://www.gnu.org/licenses/gpl.html|200
+187|MP3::Tag|http://search.cpan.org/~ilyaz/MP3-Tag-1.10/lib/MP3/Tag.pm|200
+544|MP3val|http://sourceforge.net/p/mp3val/subversion/commit_browser|200
+544|MP3val|https://sourceforge.net/projects/mp3val/reviews/|200
+544|MP3val|http://mp3val.sourceforge.net|200
+544|MP3val|http://mp3val.sourceforge.net/download.shtml|200
+89|MPG321|http://wiki.opf-labs.org/display/SP/SO4+Audio+mp3+to+wav+Migration+and+QA+Workflow|200
+89|MPG321|https://www.mailto:nanakos@wired-net.gr|Bad response - worth checking
+89|MPG321|https://www.mailto:hoserhead@woot.net|Bad response - worth checking
+89|MPG321|http://mpg321.sourceforge.net/|200
+1237|MPP|https://www.wikidata.org/wiki/Q42332|200
+528|MPP Viewer|http://sourceforge.net/projects/mppviewer/|200
+242|MRU-Blaster|http://www.javacoolsoftware.com/mrublaster.html|200
+90|MSIL Disassembler (Ildasm.exe)|http://msdn2.microsoft.com/en-us/library/f7dy01k1(VS.80).aspx|200
+986|MailStore Home|https://www.mailstore.com/en/products/mailstore-home/|200
+1|Main Page|http://wiki.opf-labs.org/display/SPR|200
+1|Main Page|http://www.digipres.org/|200
+1|Main Page|http://www.netwerkdigitaalerfgoed.nl|200
+1|Main Page|http://openpreservation.org//|200
+1|Main Page|http://www.dcc.ac.uk|200
+1|Main Page|https://ndsa.org|200
+1|Main Page|http://digitalpowrr.niu.edu/|200
+1|Main Page|http://www.educopia.org/events/ANADPII|403
+1|Main Page|https://www.youtube.com/watch?v=vflve95D-Yc&t=0s|200
+1|Main Page|http://dpconline.org/|200
+1|Main Page|https://dpconline.org/|200
+1|Main Page|http://en.wikipedia.org/wiki/Digital_preservation|200
+1|Main Page|https://www.langzeitarchivierung.de/Webs/nestor/EN/nestor/nestor_node.html|200
+1|Main Page|http://openpreservation.org/|200
+1|Main Page|http://digitalcurationexchange.org/|Bad response - worth checking
+1|Main Page|http://www.jisc.ac.uk/|200
+239|Matchbox Tool|https://github.com/openplanets/scape/tree/master/pc-qa-matchbox|200
+156|McAfee Free Tools|http://www.mcafee.com/us/downloads/free-tools/index.aspx|200
+128|Md5deep and hashdeep|http://md5deep.sourceforge.net/start-md5deep.html|200
+128|Md5deep and hashdeep|http://askubuntu.com/questions/37483/check-the-correctness-of-copied-files|200
+128|Md5deep and hashdeep|http://md5deep.sourceforge.net/hashdeep.html|200
+128|Md5deep and hashdeep|http://md5deep.sourceforge.net/md5deep.html|200
+128|Md5deep and hashdeep|http://md5deep.sourceforge.net/start-hashdeep.html|200
+128|Md5deep and hashdeep|http://taosecurity.blogspot.com/2005/08/using-md5deep-thank-you-to-harlan.html|200
+128|Md5deep and hashdeep|http://md5deep.sourceforge.net/|200
+128|Md5deep and hashdeep|http://linhost.info/2010/05/using-hashdeep-to-ensure-data-integrity/|200
+129|Md5sum Unix command|http://www.gnu.org/software/coreutils/manual/html_node/md5sum-invocation.html|200
+130|Md5summer|http://www.md5summer.org/|200
+456|Mdqc|http://practicaltechnologyforarchives.org/issue2_duryee_lyons/|200
+456|Mdqc|https://www.weareavp.com/products/mdqc|200
+456|Mdqc|https://www.github.com/avpreserve/mdqc|200
+456|Mdqc|http://weareavp.com|200
+710|MediaConch|https://www.youtube.com/watch?v=krrblOok46I|200
+710|MediaConch|http://github.com/MediaArea/MediaConch/commits|200
+710|MediaConch|http://www.preforma-project.eu/|200
+710|MediaConch|https://www.youtube.com/watch?v=ZTG9nlp_4oA|200
+710|MediaConch|https://mediaarea.net/MediaConch/|200
+710|MediaConch|https://github.com/MediaArea/MediaConch|200
+710|MediaConch|https://mediaarea.net/blog/interview|200
+710|MediaConch|https://mediaarea.net/MediaConchOnline/publicPolicies|200
+710|MediaConch|https://mediaarea.net/MediaConchOnline/|200
+710|MediaConch|http://coptr.digipres.org/Archivematica|200
+710|MediaConch|https://mediaarea.net/MediaConch/Download/Snapshots|200
+710|MediaConch|https://wiki.archivematica.org/MediaConch_workflow|200
+710|MediaConch|http://coptr.digipres.org/VeraPDF|200
+710|MediaConch|https://mediaarea.net/|200
+185|MediaInfo|https://mediaarea.net/en/MediaInfo|200
+392|Mendeley|http://www.mendeley.com/upgrade/|200
+392|Mendeley|http://www.mendeley.com/videos-tutorials/|200
+392|Mendeley|http://www.mendeley.com/terms/|200
+392|Mendeley|http://www.mendeley.com/contact-support/|200
+392|Mendeley|http://feedback.mendeley.com/|403
+392|Mendeley|http://blog.mendeley.com/|200
+392|Mendeley|http://www.swets.com/mendeley|406
+392|Mendeley|http://www.mendeley.com/|200
+392|Mendeley|http://www.mendeley.com/faq/|404
+232|Merritt Repository Service|http://merritt.cdlib.org/|200
+975|Metadata++|https://www.logipole.com/metadata++-en.htm|200
+186|Metadata Extraction Tool|http://www.apache.org/licenses/LICENSE-2.0.html|200
+186|Metadata Extraction Tool|http://meta-extractor.sourceforge.net/|200
+186|Metadata Extraction Tool|http://sourceforge.net/projects/meta-extractor/|200
+186|Metadata Extraction Tool|http://natlib.govt.nz/librarians/digital-library-tools|Bad response - worth checking
+186|Metadata Extraction Tool|https://github.com/DIA-NZ/Metadata-Extraction-Tool|200
+938|Metadata Interrogator|https://www.metadataanalysis.com|Bad response - worth checking
+938|Metadata Interrogator|https://bandito.re/05253197-901f-4ad4-8017-929fcf8afec5.atom|200
+938|Metadata Interrogator|https://github.com/globalcrimadmin/metadata|200
+938|Metadata Interrogator|http://www.metadataanalysis.com|Bad response - worth checking
+905|Metadata transformer|http://digitalpowrr.niu.edu/wp-content/uploads/2015/03/DAMT-Tutorial.pdf|200
+905|Metadata transformer|http://dataaccessioner.org/da-mt.htm|200
+905|Metadata transformer|https://vimeo.com/142888727|200
+905|Metadata transformer|http://dataaccessioner.org|200
+290|Metaproducts|http://www.metaproducts.com/|200
+241|Microsoft Office 2003/XP Add-in: Remove Hidden Data|http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=8446|404
+240|Microsoft Office 2003 Add-in: Word Redaction v1.2|http://web.library.emory.edu/|200
+240|Microsoft Office 2003 Add-in: Word Redaction v1.2|http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=10155|404
+240|Microsoft Office 2003 Add-in: Word Redaction v1.2|https://techknowhow.library.emory.edu/blogs/branker/2009/06/03/redaction-software-recommendation-marbl-digital-archiving|Bad response - worth checking
+1035|Minimum Preservation Tool|https://www.dpconline.org/blog/minimum-preservation-tool-mpt|200
+1035|Minimum Preservation Tool|http://www.apache.org/licenses/LICENSE-2.0|200
+1035|Minimum Preservation Tool|https://github.com/britishlibrary/mpt|200
+1035|Minimum Preservation Tool|https://github.com/anjackson/mpt/releases/tag/v1.1.6-UI|200
+935|Mink|http://ws-dl.blogspot.com/2014/10/2014-10-03-integrating-live-and.html|200
+935|Mink|https://github.com/machawk1/mink|200
+935|Mink|https://github.com/machawk1/mink/commits|200
+935|Mink|https://matkelly.com/mink|200
+836|Module:Citation/CS1|http://www.ncbi.nlm.nih.gov/books/NBK7271/box/A35085/|200
+836|Module:Citation/CS1|https://www.//arxiv.org/abs/|Bad response - worth checking
+836|Module:Citation/CS1|https://tools.ietf.org/html/rfc3490|200
+836|Module:Citation/CS1|http://www.ncbi.nlm.nih.gov/books/NBK7271/box/A35029/|200
+836|Module:Citation/CS1|https://www.news:'|Bad response - worth checking
+836|Module:Citation/CS1|https://tools.ietf.org/html/rfc4234|200
+836|Module:Citation/CS1|http://www.unicode.org/charts/PDF/U0000.pdf|200
+836|Module:Citation/CS1|http://tools.ietf.org/html/std66#section-3.1|404
+836|Module:Citation/CS1|http://www.unicode.org/charts/PDF/U0180.pdf|200
+836|Module:Citation/CS1|https://www.//%S+.*%|Bad response - worth checking
+836|Module:Citation/CS1|https://www.//yyyyy.zzz|Bad response - worth checking
+836|Module:Citation/CS1|http://www.unicode.org/charts/PDF/U0080.pdf|200
+836|Module:Citation/CS1|http://www.ncbi.nlm.nih.gov/books/NBK7271/box/A35062/|200
+836|Module:Citation/CS1|https://www.iana.org/domains/root/db|200
+836|Module:Citation/CS1|http://www.unicode.org/charts/PDF/U0100.pdf|200
+836|Module:Citation/CS1|https://web.archive.org/save/'|523
+836|Module:Citation/CS1|http://tools.ietf.org/html/rfc1034#section-3.5|404
+836|Module:Citation/CS1|https://www.//Hus|Bad response - worth checking
+836|Module:Citation/CS1|https://tools.ietf.org/html/draft-ietf-dnsind-iana-dns-01#page-15|200
+836|Module:Citation/CS1|http://tools.wmflabs.org/citations/doibot.php?page=Module:Citation/CS1|404
+836|Module:Citation/CS1|https://phabricator.wikimedia.org/diffusion/ECLD/browse/master/LocalNames/LocalNamesEn.php|200
+836|Module:Citation/CS1|https://tools.ietf.org/html/rfc5536#section-3.1.4|200
+836|Module:Citation/CS1|http://ocoins.info/|504
+837|Module:Citation/CS1/Configuration|https://git.wikimedia.org/blob/mediawiki%2Fcore.git/69cd73811f7aadd093050dbf20ed70ef0b42a713/skins%2Fcommon%2FcommonElements.css#L199|200
+837|Module:Citation/CS1/Configuration|https://git.wikimedia.org/blob/mediawiki%2Fcore.git/9553bd02a5595da05c184f7521721fb1b79b3935/skins%2Fcommon%2Fshared.css#L538|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0900.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0A00.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0A80.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0D00.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0D80.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0B00.pdf|200
+837|Module:Citation/CS1/Configuration|http://adsabs.harvard.edu/abs/'|404
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/UAA60.pdf|200
+837|Module:Citation/CS1/Configuration|https://www.news:'|Bad response - worth checking
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0C80.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0B80.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0C00.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U1000.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/UA9E0.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/U0980.pdf|200
+837|Module:Citation/CS1/Configuration|https://unicode.org/charts/PDF/UA8E0.pdf|200
+839|Module:Citation/CS1/Identifiers|http://www.worldcat.org/issn/0819|200
+839|Module:Citation/CS1/Identifiers|http://info-uri.info/registry/OAIHandler?verb=GetRecord&metadataPrefix=reg&identifier=info:lccn/|200
+839|Module:Citation/CS1/Identifiers|http://www.loc.gov/marc/lccn-namespace.html#normalization|200
+839|Module:Citation/CS1/Identifiers|https://www.oclc.org/batchload/controlnumber.en.html|Bad response - worth checking
+839|Module:Citation/CS1/Identifiers|http://adsabs.harvard.edu/abs_doc/help_pages/data.html#bibcodes|200
+839|Module:Citation/CS1/Identifiers|http://arxiv.org/help/arxiv_identifier|200
+839|Module:Citation/CS1/Identifiers|http://www.ismn-international.org/download/Web_ISMN_Users_Manual_2008-6.pdf|404
+839|Module:Citation/CS1/Identifiers|https://doi.org/10.1101/078733|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/Identifiers/sandbox&action=edit|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/Utilities/sandbox&action=edit|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/Suggestions/sandbox&action=edit|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/Whitelist/sandbox&action=edit|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/Configuration/sandbox&action=edit|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/Date_validation/sandbox&action=edit|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/COinS/sandbox&action=edit|200
+873|Module:Citation/CS1/doc|https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/sandbox&action=edit|200
+874|Module:String|http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Ustring_patterns|200
+874|Module:String|http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Patterns|200
+874|Module:String|http://www.lua.org/manual/5.1/manual.html#5.4.1|200
+956|Moonshine|https://github.com/exponential-decay/moonshine|200
+956|Moonshine|https://github.com/exponential-decay/moonshine/commits|200
+956|Moonshine|https://github.com/exponential-decay/moonshine/blob/master/README.md|200
+956|Moonshine|https://github.com/exponential-decay/moonshine/releases|200
+218|Muse|http://mobisocial.stanford.edu/muse/|200
+218|Muse|http://mobisocial.stanford.edu/muse/tipsheet.html|200
+218|Muse|http://www.extremetech.com/computing/100297-relive-and-analyze-your-entire-email-archive|200
+218|Muse|http://www.newscientist.com/article/mg21228346.200-muse-to-sift-the-emails-of-yesteryear.html|200
+218|Muse|http://localhost:9099/muse/help|Bad response - worth checking
+249|Mutlivalent|http://multivalent.sourceforge.net/|200
+393|MyExperiment|http://www.scape-project.eu/|200
+393|MyExperiment|http://wiki.myexperiment.org/index.php/FAQ|200
+393|MyExperiment|http://www.myexperiment.org/|200
+393|MyExperiment|http://www.biovel.eu/|200
+393|MyExperiment|http://creativecommons.org/licenses/by-nc-nd/3.0/|200
+393|MyExperiment|http://www.dcc.ac.uk/resource/external/taverna|404
+393|MyExperiment|http://wiki.myexperiment.org/index.php/Videos|200
+393|MyExperiment|http://wiki.myexperiment.org/index.php/Main_Page|200
+393|MyExperiment|http://www.opensource.org/licenses/bsd-license.php|200
+393|MyExperiment|http://www.wf4ever-project.org/|200
+393|MyExperiment|http://www.myexperiment.org/users|200
+393|MyExperiment|http://www.myexperiment.org/groups|200
+136|NARA File Analyzer and Metadata Harvester|http://blogs.archives.gov/online-public-access/?p=6270|200
+1026|NARA Preservation Planning Framework|https://github.com/usnationalarchives/digital-preservation|200
+192|NARA Video Frame Analyzer|http://blogs.archives.gov/online-public-access/?p=6270|200
+667|NDSA Levels of Preservation|http://www.digitalpreservation.gov/ndsa/working_groups/documents/Levels_v1.pdf|200
+667|NDSA Levels of Preservation|http://www.digitalpreservation.gov/ndsa/activities/levels.html|200
+667|NDSA Levels of Preservation|http://www.digitalpreservation.gov/ndsa/working_groups/documents/USGS_Guidelines_for_the_Preservation_of_Digital_Scientific_Data_Final.pdf|200
+667|NDSA Levels of Preservation|https://blog.nationalarchives.gov.uk/blog/archive-service-accreditation-100-accredited-archives/|200
+667|NDSA Levels of Preservation|https://www.weareavp.com/mapping-standards-for-richer-assessments-ndsa-levels-of-digital-preservation-and-iso-163632012/|200
+394|NESSTAR|http://nesstar.com/about/customers.html|200
+394|NESSTAR|http://www.nesstar.com/help/4.0/webview/index.html|200
+394|NESSTAR|http://www.nesstar.com/help/4.0/publisher/download_resources/Publisher_UserGuide_v4.0.pdf|200
+394|NESSTAR|http://www.nesstar.com/help/4.0/server/index.html|200
+394|NESSTAR|http://www.nesstar.com/|200
+394|NESSTAR|http://www.nesstar.com/doc/evaluation_agreement.pdf|200
+941|NOID (Ruby)|http://coptr.digipres.org/Nice_Opaque_Identifiers_(NOID)|200
+941|NOID (Ruby)|https://github.com/ruby-microservices/noid|200
+941|NOID (Ruby)|https://metacpan.org/pod/distribution/Noid/noid|200
+673|NSRL (National Software Reference Library)|http://www.nsrl.nist.gov/Redistribution_Policy.htm|404
+673|NSRL (National Software Reference Library)|http://www.nsrl.nist.gov/Downloads.htm|404
+673|NSRL (National Software Reference Library)|http://www.nsrl.nist.gov/|200
+673|NSRL (National Software Reference Library)|http://www.nsrl.nist.gov/Documents/Data-Formats-of-the-NSRL-Reference-Data-Set-16.pdf|200
+1016|Namalysator|https://github.com/natliblux/Namalysator/commits/master|200
+1016|Namalysator|https://github.com/natliblux/Namalysator|200
+570|Nanite|https://github.com/openpreserve/nanite|200
+212|NetarchiveSuite|http://www.gnu.org/licenses/lgpl.html#translations|200
+212|NetarchiveSuite|http://github.com/netarchivesuite/netarchivesuite/commits|200
+212|NetarchiveSuite|http://netarchive.dk/suite/Welcome|200
+212|NetarchiveSuite|https://sbforge.org/display/NAS/NetarchiveSuite|200
+212|NetarchiveSuite|https://sbforge.org/display/NAS/Documentation|200
+940|Nice Opaque Identifiers (NOID)|https://metacpan.org/pod/distribution/Noid/noid|200
+987|Nitro Pro|https://www.gonitro.com/nps/pro/pdf-software|403
+944|Noids|https://metacpan.org/pod/distribution/Noid/noid|200
+944|Noids|https://github.com/ruby-microservices/noid|200
+944|Noids|https://github.com/ndlib/noids|200
+944|Noids|https://library.nd.edu/|200
+1230|Not content-type specific tools|http://coptr.digipres.org/Nice_Opaque_Identifiers_(NOID)|200
+1299|Novice to Know-How Learning Pathway|https://www.dpconline.org/digipres/train-your-staff/n2kh-online-training|200
+46|Nuclear Processor|http://www.nuclearwintercrew.com/Products-View/6/Nuclear_Processor/|Bad response - worth checking
+1006|NumaHOP|https://www.numahop.fr/|200
+1006|NumaHOP|https://www.sciencespo.fr/bibliotheque/|200
+1006|NumaHOP|http://www.bsg.univ-paris3.fr/iguana/www.main.cls|200
+1006|NumaHOP|https://www.bulac.fr/|200
+1006|NumaHOP|https://github.com/progilone/numahop/commits/master|200
+291|NutchWAX|http://archive-access.sourceforge.net/projects/nutchwax/|200
+157|OCFA (Open Computer Forensics Architecture)|http://sourceforge.net/projects/ocfa|200
+453|ODF Validator|http://odf-validator.rhcloud.com/|Bad response - worth checking
+453|ODF Validator|https://incubator.apache.org/odftoolkit/conformance/ODFValidator.html|404
+453|ODF Validator|http://www.openplanetsfoundation.org/comment/529#comment-529|404
+684|OPD for RDM|http://wiki.dpconline.org/index.php?title=Extending_the_OPD_to_cover_RDM|200
+684|OPD for RDM|http://www.dcc.ac.uk/webfm_send/2077|404
+684|OPD for RDM|http://www.dcc.ac.uk/projects/opd-for-rdm|404
+1020|OSFMount|https://www.osforensics.com/tools/mount-disk-images.html|200
+611|Officeparser.py|https://github.com/unixfreak0037/officeparser|200
+611|Officeparser.py|http://blog.avira.com/malicious-office-macros-dead/|200
+73|Ohcount|https://github.com/blackducksw/ohcount|200
+919|Oldweb.today|http://mentalfloss.com/article/73500/browse-first-web-page-using-first-web-browser|200
+919|Oldweb.today|http://oldweb.today|200
+25|Omeka|http://omeka.org/|200
+947|Omeka Identity plugin|https://github.com/uklibraries/IdentityPlugin|200
+113|Ontrack EasyRecovery|http://www.krollontrack.com/data-recovery/recovery-software/|200
+263|Ontrack Eraser Software|http://www.krollontrack.com/information-management/data-erasure-solutions/|200
+395|OpenDOAR|http://www.opendoar.org/tools/en/policies.php|404
+37|OpenJPEG|http://www.openjpeg.org/|200
+58|OpenVZ wiki|http://wiki.openvz.org/Main_Page|404
+178|OpenWMS (Workflow Management System for Digital Objects)|http://rucore.libraries.rutgers.edu/open/projects/openwms/|200
+92|OpenXML/ODF Translator Add-in for Office|http://sourceforge.net/projects/odf-converter/|200
+255|Open Office|http://www.openoffice.org/|200
+91|Open Video Converter|http://www.archive.org/details/tucows_371200_Open_Video_Converter|200
+1275|Optical-media-check|https://github.com/chelle-rr/optical-media-check|200
+1275|Optical-media-check|https://journal.code4lib.org/articles/15908|200
+93|Oracle Outside In Technology|http://www.oracle.com/technetwork/middleware/content-management/oit-all-085236.html|200
+202|PAIRTREE Library|http://sourceforge.net/projects/loc-xferutils/files/loc-pairtree-java-library|200
+1239|PDF|https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools|200
+1239|PDF|https://www.wikidata.org/wiki/Q42332|200
+1241|PDF/A|https://www.wikidata.org/wiki/Q1547957|200
+278|PDFTron PDF-A Manager|http://www.pdftron.com/pdfamanager/index.html|200
+193|PDF Tools (by Didier Stevens)|http://blog.didierstevens.com/programs/pdf-tools/|200
+990|PDFsam|https://pdfsam.org/download-pdfsam-basic/|200
+264|PDWIPE (Physical Drive WIPE)|http://www.digitalintelligence.com/software/disoftware/pdwipe/|200
+646|PET (PERICLES Extraction Tool)|http://www.pericles-project.eu/|Bad response - worth checking
+646|PET (PERICLES Extraction Tool)|http://pericles-project.eu/blog/post/metadata%20extraction,%20environment%20information|Bad response - worth checking
+646|PET (PERICLES Extraction Tool)|http://coptr.digipres.org/Tika|200
+646|PET (PERICLES Extraction Tool)|https://github.com/pericles-project/pet|200
+396|PLATO|http://www.ifs.tuwien.ac.at/dp/plato/intro_casestudies.html|200
+396|PLATO|https://github.com/openplanets/plato/graphs|200
+396|PLATO|http://www.ifs.tuwien.ac.at/dp/plato/intro_documentation.html|200
+396|PLATO|http://www.dcc.ac.uk/resource/external/fits|404
+396|PLATO|http://www.dcc.ac.uk/resource/external/eprints|404
+396|PLATO|https://github.com/openplanets/plato|200
+396|PLATO|http://www.dcc.ac.uk/resource/external/droid|404
+396|PLATO|http://github.com/openplanets/plato/commits|200
+396|PLATO|http://www.apache.org/licenses/LICENSE-2.0|200
+396|PLATO|http://www.dcc.ac.uk/resource/external/jstorharvard-object-validation-environment-jhove|404
+396|PLATO|http://www.ifs.tuwien.ac.at/dp/plato/intro.html|200
+1248|PNG|https://www.wikidata.org/wiki/Q178051|200
+1276|PREMIS (Preservation Metadata Implementation Strategies)|https://www.wikidata.org/wiki/Q2108820|200
+1276|PREMIS (Preservation Metadata Implementation Strategies)|https://www.loc.gov/standards/premis/|200
+711|PRONOM Signature Development Utility|http://coptr.digipres.org/Siegfried|200
+711|PRONOM Signature Development Utility|http://www.nationalarchives.gov.uk/pronom/sigdev/index.htm|200
+711|PRONOM Signature Development Utility|http://ffdev.info|200
+711|PRONOM Signature Development Utility|http://exponentialdecay.co.uk/sd/index.htm|403
+711|PRONOM Signature Development Utility|https://github.com/exponential-decay/signature-development-utility|200
+711|PRONOM Signature Development Utility|https://github.com/exponential-decay/signature-development-utility/commits|200
+711|PRONOM Signature Development Utility|https://github.com/exponential-decay/signature-development-utility/tree/signature-development-utility-1.0|200
+711|PRONOM Signature Development Utility|http://openpreservation.org/blog/2016/09/08/making-the-switch-from-user-to-user-and-contributor-my-first-file-format-signature/|200
+711|PRONOM Signature Development Utility|https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/|200
+711|PRONOM Signature Development Utility|http://digital-archiving.blogspot.co.nz/2016/08/my-first-file-format-signature.html|404
+980|PackageHandler|https://www.bar.admin.ch/bar/en/home/archiving/tools/package-handler.html|200
+292|PageVault|http://www.projectcomputing.com/products/pageVault/|200
+3|Pagelyzer|http://wiki.opf-labs.org/download/attachments/12059037/installation+manual-1-pagealyzer.pdf?version=4&modificationDate=1354896471000|200
+3|Pagelyzer|http://wiki.opf-labs.org/display/SP/SO18+Comparing+two+web+page+versions+for+web+archiving|200
+3|Pagelyzer|https://github.com/openplanets/pagelyzer|200
+909|Pandoc|http://pandoc.org|200
+909|Pandoc|http://pandoc.org/releases.html|200
+158|Paraben|http://www.paraben-forensics.com/|200
+518|Paranoia|http://xiph.org/paranoia/|Bad response - worth checking
+44|Password Recovery Software|http://www.lostpassword.com/|200
+747|PdfaPilot|https://www.callassoftware.com/en/products/pdfapilot|Bad response - worth checking
+747|PdfaPilot|https://www.callassoftware.com/en/products/pdfapilot/?type=product&product=pdfapilotdesktop&tab=release-notes|Bad response - worth checking
+1029|Pdfcpu|https://github.com/pdfcpu/pdfcpu|200
+1029|Pdfcpu|https://pdfcpu.io/about/command_set|200
+1029|Pdfcpu|https://pdfcpu.io/|200
+195|Pdftk|http://code.google.com/p/openjpeg/updates/list|200
+195|Pdftk|http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/|200
+307|Pearl Crescent Page Saver|http://pearlcrescent.com/products/pagesaver/|200
+188|Peepdf|http://eternal-todo.com/tools/peepdf-pdf-analysis-tool|200
+926|Perma.cc|https://perma.cc|200
+926|Perma.cc|https://github.com/harvard-lil/perma/commits/develop|200
+926|Perma.cc|http://strathoa.tumblr.com/post/175604632530/maintaining-and-preserving-the-digital-scholarly|200
+926|Perma.cc|https://www.library.umass.edu/services/writing-and-publication/perma-cc/|Bad response - worth checking
+926|Perma.cc|https://github.com/harvard-lil/perma|200
+926|Perma.cc|https://blogs.harvard.edu/perma/2015/04/14/how-can-faculty-use-perma-cc/|200
+1128|Persistent Identification|http://coptr.digipres.org/Nice_Opaque_Identifiers_(NOID)|200
+114|PhotoRec|http://www.cgsecurity.org/wiki/PhotoRec|200
+176|PhotoRescue|http://www.datarescue.com/|200
+203|PiM (PREMIS in METS) Toolbox|http://www.dcc.ac.uk/resource/external/droid|404
+203|PiM (PREMIS in METS) Toolbox|http://pim.fcla.edu/|Bad response - worth checking
+203|PiM (PREMIS in METS) Toolbox|http://sourceforge.net/projects/pimtoolbox/|200
+203|PiM (PREMIS in METS) Toolbox|http://www.dcc.ac.uk/resources/external/jhove|404
+1130|Planning|http://www.dpconline.org/members/conference-reports/1458-dpc-webinar-technology-bytes-ed-pinsent-and-steph-taylor|200
+173|Power ISO|http://www.poweriso.com/|200
+913|Pre-Ingest Tool|https://github.com/Digital-Preservation-Finland/dpres-siptools|200
+1132|Preservation System|https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/managing-your-collection/preserving-digital-collections/digital-preservation-tools-systems/|200
+333|Preservica|http://www.preservica.com|200
+333|Preservica|http://preservica.com/resources/case-studies/|200
+333|Preservica|https://preservica.com/resources/press-releases/latest-version-of-preservica-simplifies-digital-preservation-and-delivers-enhanced-api-capabilities-1|200
+162|Prodiscover|http://www.techpathways.com/|404
+48|Project Blacklight|http://projectblacklight.org/|200
+233|Proofpoint Enterprise Archive|http://www.proofpoint.com/products/email-archiving.php|200
+159|PyFlag|http://www.pyflag.net/|200
+927|Python DPX validator|https://github.com/Digital-Preservation-Finland/dpx-validator|200
+639|Python XMP Toolkit|https://code.google.com/p/python-xmp-toolkit/|200
+131|Python checkm package|https://github.com/benosteen/checkm|200
+131|Python checkm package|http://wiki.opf-labs.org/display/TR/Specifications|200
+523|QCTools|http://bavc.org/qctools|200
+523|QCTools|https://github.com/bavc/qctools/releases|200
+523|QCTools|http://bavc.github.io/avaa|200
+523|QCTools|https://www.ffmpeg.org/ffmpeg-filters.html#signalstats|200
+523|QCTools|http://github.com/bavc/qctools/commits|200
+523|QCTools|https://raw.githubusercontent.com/FFmpeg/FFmpeg/master/doc/ffprobe.xsd|200
+523|QCTools|https://raw.githubusercontent.com/bavc/qctools/master/README.md|200
+523|QCTools|http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas|404
+523|QCTools|http://htmlpreview.github.io/?https://github.com/bavc/qctools/blob/master/Source/Resource/Help/How%20To%20Use/How%20To%20Use.html|200
+523|QCTools|http://htmlpreview.github.io/?https://github.com/bavc/qctools/blob/master/Source/Resource/Help/Data%20Format/Data%20Format.html|200
+523|QCTools|http://htmlpreview.github.io/?https://github.com/bavc/qctools/blob/master/Source/Resource/Help/Playback%20Filters/Playback%20Filters.html|200
+523|QCTools|http://www.bavc.org/qctools|200
+523|QCTools|http://htmlpreview.github.io/?https://github.com/bavc/qctools/blob/master/License.html|200
+523|QCTools|http://htmlpreview.github.io/?https://github.com/bavc/qctools/blob/master/Source/Resource/Help/Filter%20Descriptions/Filter%20Descriptions.html|200
+523|QCTools|https://www.ffmpeg.org/ffmpeg-filters.html#ebur128|200
+523|QCTools|https://www.ffmpeg.org/ffmpeg-filters.html#toc-cropdetect|200
+523|QCTools|http://coptr.digipres.org/FFmpeg|200
+523|QCTools|https://www.ffmpeg.org/ffmpeg-filters.html#psnr|200
+523|QCTools|https://github.com/bavc/qctools/wiki|200
+517|QPxTool|http://qpxtool.sourceforge.net/|200
+522|Qpdf|http://qpdf.sourceforge.net/|200
+256|Quick View Plus|http://digital-archiving.blogspot.co.uk/2013/02/in-praise-of-quick-view-plus.html|404
+256|Quick View Plus|http://www.avantstar.com/metro/visit|200
+160|RAID (Real-time Analytical Intelligence Database)|http://www.usdoj.gov/ndic/domex/raid.htm|200
+293|RARC (ARC replicator)|http://arquivo-web.fccn.pt/about-the-archive/how-does-it-work/rarc/rarc-arc-replicator|Bad response - worth checking
+997|RATOM|http://ratom.web.unc.edu/|200
+282|RCS (The Revision Control System)|http://www.gnu.org/software/rcs/rcs.html|200
+993|RE (Rename Expert)|https://www.rename-expert.de/start.aspx|200
+401|RMCAS|http://www.nationalarchives.gov.uk/rmcas/documentation/rmcas_user_guide.pdf|404
+401|RMCAS|http://www.nationalarchives.gov.uk/rmcas/|404
+94|RODA DBML|http://redmine.keep.pt/documents/show/3|504
+94|RODA DBML|http://coptr.digipres.org/Db-preservation-toolkit|200
+94|RODA DBML|http://redmine.keep.pt/wiki/roda-public|504
+334|RackSpace|https://www.rackspace.com|200
+243|RapidRedact|http://web.library.emory.edu/|200
+243|RapidRedact|http://www.rapidredact.com/|406
+243|RapidRedact|https://techknowhow.library.emory.edu/blogs/branker/2009/06/03/redaction-software-recommendation-marbl-digital-archiving|Bad response - worth checking
+108|ReACT (Resource Audit and Comparison Tool)|http://archaeologydataservice.ac.uk/blog/2012/12/react/#more-168|200
+108|ReACT (Resource Audit and Comparison Tool)|http://wiki.opf-labs.org/display/SPR/File+management+and+matching+of+tif,+htm+and+pdf+files+solution|200
+399|ReDBox|http://www.redboxresearchdata.com.au/|200
+399|ReDBox|https://github.com/redbox-mint|200
+399|ReDBox|http://creativecommons.org/licenses/by-nc-sa/3.0/au/|200
+399|ReDBox|http://github.com/redbox-mint/redbox/commits|200
+399|ReDBox|http://redbox-dev.cqu.edu.au/redbox/default/home|504
+399|ReDBox|http://redbox-dev.cqu.edu.au/mint/rda_parties/home|504
+399|ReDBox|https://groups.google.com/forum/?fromgroups#!forum/redbox-repo|200
+455|ReNamer|http://www.den4b.com/products/renamer|403
+455|ReNamer|http://practicaltechnologyforarchives.org/issue1_schmitt/|200
+398|ReaderMeter|http://www.dcc.ac.uk/resource/external/mendeley|404
+398|ReaderMeter|http://readermeter.org/|504
+398|ReaderMeter|http://creativecommons.org/licenses/by-sa/3.0/|200
+398|ReaderMeter|http://altmetrics.org/manifesto/|406
+26|Recollection|http://recollection.zepheira.com/|Bad response - worth checking
+689|Recompute|http://wiki.dpconline.org/index.php?title=Software_Reuse|200
+689|Recompute|https://github.com/cjw-charleswu/Recompute|404
+115|Recovery is Possible|http://freshmeat.net/projects/recoveryispossible/|200
+590|Redact-It|http://www.redact.com/overview|504
+590|Redact-It|http://trial-technology.blogspot.com/2010/10/product-review-redact-it-desktop.html|200
+590|Redact-It|http://www.practicalparalegalism.com/2010/06/software-review-redact-it-desktop.html|200
+590|Redact-It|https://techknowhow.library.emory.edu/blogs/branker/2009/06/03/redaction-software-recommendation-marbl-digital-archiving|Bad response - worth checking
+590|Redact-It|http://www.redact.com|504
+590|Redact-It|http://web.library.emory.edu/|200
+590|Redact-It|http://www.redact.com/top-5-reasons|504
+244|Redax|https://techknowhow.library.emory.edu/blogs/branker/2009/06/03/redaction-software-recommendation-marbl-digital-archiving|Bad response - worth checking
+244|Redax|http://www.appligent.com/about-us/contact-us/|200
+244|Redax|http://web.library.emory.edu/|200
+244|Redax|http://www.appligent.com/redax|200
+244|Redax|http://www.whilstibreatheihope.com/2012/03/redaction-tool-review/|404
+244|Redax|http://www.oic.qld.gov.au/__data/assets/pdf_file/0018/6741/guideline-external-review-providing-documents-to-the-oic.pdf|200
+244|Redax|http://www.appligent.com/desktop-software/redax/|200
+244|Redax|http://docs.appligent.com/redax-enterprise-server/|200
+244|Redax|http://redax.appligent.com/redax/|200
+244|Redax|http://shop.appligent.com/?shopp_product=redax|404
+244|Redax|https://acrobatusers.com/tutorials/print/redacting-pdf-files-survey-tools|404
+161|Regshot|http://sourceforge.net/projects/regshot/|200
+981|Remove Empty Directories|https://www.jonasjohn.de/red.htm|200
+514|Rescarta|http://www.ResCarta.org|200
+514|Rescarta|https://sourceforge.net/projects/rescarta/reviews?source=navbar|200
+514|Rescarta|http://sourceforge.net/projects/rescarta/files/ResCarta%20Tools/|200
+400|ResearchGate|http://news.researchgate.net/|200
+400|ResearchGate|http://www.researchgate.net/application.TermsAndConditions.html|200
+400|ResearchGate|http://www.researchgate.net/application.Contact.html|200
+400|ResearchGate|http://www.researchgate.net/|200
+116|Restorer Ultimate|http://www.restorer2000.com/|200
+652|Rhash|http://rhash.anz.ru/license.php|504
+652|Rhash|http://pcuninstalltool.com/articles/How-to-Uninstall/Remove-RHash-Completely-Off-Your-PC_24_116231.html|200
+652|Rhash|http://rhash.anz.ru/manpage.php|504
+652|Rhash|http://rhash.anz.ru/hashes.php|504
+652|Rhash|https://bugs.launchpad.net/ubuntu/+source/rhash|200
+652|Rhash|http://rhash.anz.ru/|504
+652|Rhash|http://sourceforge.net/p/rhash/wiki/Home/|200
+652|Rhash|https://www.openhub.net/p/rhash/rss_subscriptions|200
+1303|Riprap|https://github.com/mjordan/riprap|200
+1303|Riprap|https://opensource.org/licenses/MIT|200
+335|Roda|https://github.com/keeps/roda/blob/master/CHANGELOG.txt|404
+335|Roda|https://github.com/keeps/roda|200
+335|Roda|http://www.roda-community.org|200
+335|Roda|http://github.com/keeps/roda/commits|200
+402|Rosetta|http://www.exlibrisgroup.com/category/RosettaOverview|200
+132|SAFE Archive Audit System|http://safearchive.sourceforge.net|200
+670|SCOUT|http://www.slideshare.net/SCAPEproject/webinar-uncovering-preservationrisks|200
+670|SCOUT|http://openpreservation.org/knowledge/blogs/2013/12/16/scout-preservation-watch-system/|200
+670|SCOUT|http://www.scape-project.eu/|200
+265|SDelete|http://technet.microsoft.com/en-us/sysinternals/bb897443.aspx|200
+1232|SIARD|https://www.wikidata.org/wiki/Q2206173|200
+274|SIARD-VAL|http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0165|200
+274|SIARD-VAL|http://kost-ceco.ch/cms/index.php?siard_val_de|200
+515|SIARD Suite|https://github.com/sfa-siard/SiardGui/releases|200
+515|SIARD Suite|https://www.bar.admin.ch/bar/en/home/archiving/tools/siard-suite.html|200
+515|SIARD Suite|http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0165|200
+713|SIARDexcerpt|http://github.com/KOST-CECO/KOST-Simy/issues|200
+713|SIARDexcerpt|http://github.com/KOST-CECO/SIARDexcerpt/issues|200
+713|SIARDexcerpt|http://kost-ceco.ch/cms/index.php?siardexcerpt_de|200
+713|SIARDexcerpt|http://github.com/KOST-CECO/SIARDexcerpt/releases|200
+713|SIARDexcerpt|http://github.com/KOST-CECO/SIARDexcerpt/commits|200
+713|SIARDexcerpt|http://www.ech.ch/vechweb/page?p=dossier&documentNumber=eCH-0165|200
+713|SIARDexcerpt|https://github.com/KOST-CECO/SIARDexcerpt/releases|200
+1254|SQL|https://www.wikidata.org/wiki/Q47607|200
+270|SRB (The DICE Storage Resource Broker)|http://www.sdsc.edu/srb/index.php/Main_Page|200
+133|SSDeep|http://ssdeep.sourceforge.net/|200
+133|SSDeep|http://wiki.opf-labs.org/display/AQuA/ssdeep+for+duplicate+image+detection|200
+1298|SVG|https://www.wikidata.org/wiki/Q2078|200
+34|SafeBack|http://www.forensics-intl.com/safeback.html|200
+117|Safecopy|http://safecopy.sourceforge.net/|200
+118|SalvageData Recovery|http://www.salvagedata.com/|403
+1031|Samvera|https://samvera.org/|200
+40|Screen-scraper|http://www.screen-scraper.com/|200
+1024|SheepShaver|https://sheepshaver.cebix.net/|Bad response - worth checking
+976|Shotwell|https://wiki.gnome.org/Apps/Shotwell/FacesTool|200
+976|Shotwell|https://wiki.gnome.org/Apps/Shotwell|200
+976|Shotwell|https://mail.gnome.org/mailman/listinfo/shotwell-list|404
+976|Shotwell|https://wiki.gnome.org/Apps/Shotwell/FAQ|200
+588|Siegfried|http://github.com/richardlehane/siegfried/commits|200
+588|Siegfried|http://www.openplanetsfoundation.org/blogs/2014-09-27-siegfried-pronom-based-file-format-identification-tool|200
+588|Siegfried|http://www.itforarchivists.com/siegfried|200
+588|Siegfried|https://github.com/richardlehane/siegfried|200
+32|Simile Exhibit|http://www.simile-widgets.org/exhibit3/ExhibitPR.pdf|200
+32|Simile Exhibit|http://simile-widgets.org/wiki/Exhibit|500
+32|Simile Exhibit|https://github.com/simile-widgets/exhibit/issues|200
+32|Simile Exhibit|http://simile-widgets.org/wiki/Exhibit#How_To_Make_An_Exhibit|500
+32|Simile Exhibit|http://www.simile-widgets.org/exhibit/|200
+32|Simile Exhibit|http://mogglesby.wordpress.com/2012/03/08/making-a-simile-timeline-with-a-google-map/|200
+32|Simile Exhibit|http://simile-widgets.org/wiki/Reference_Documentation_for_Exhibit|500
+32|Simile Exhibit|https://letterpress.uchicago.edu/index.php/jdhcs/article/view/59|404
+32|Simile Exhibit|http://simile-widgets.org/wiki/Exhibit#Good_Tools_for_making_Exhibits|500
+32|Simile Exhibit|http://www.simile-widgets.org/exhibit3/|200
+32|Simile Exhibit|https://groups.google.com/forum/#!forum/simile-widgets|200
+32|Simile Exhibit|http://okfnlabs.org/blog/2012/12/04/javascript-timeline-libaries-a-review.html|200
+32|Simile Exhibit|http://simile-widgets.org/wiki/Exhibit#Templates|500
+628|SiteStory|http://www.mementoweb.org/guide/rfc/|200
+628|SiteStory|http://mementoweb.github.io/SiteStory/|200
+628|SiteStory|http://mementoweb.github.io/SiteStory/license.html|200
+628|SiteStory|http://en.wikipedia.org/wiki/Web_ARChive|200
+628|SiteStory|http://mementoweb.github.io/SiteStory/getStarted.html|200
+628|SiteStory|http://github.com/mementoweb/SiteStory/commits|200
+308|Snagit|http://www.techsmith.com/snagit/default.asp|200
+452|SobekCM|http://daitss.fcla.edu/content/new-version-sobekcm-mets-editor-released-version-104|Bad response - worth checking
+452|SobekCM|http://ufdc.ufl.edu/sobekcm/development/highlightsSobekCM|404
+452|SobekCM|https://github.com/MarkVSullivan/SobekCM-Web-Application|200
+452|SobekCM|http://www.dloc.com/AA00016535/00001/pdf|200
+452|SobekCM|http://sobekrepository.org|200
+452|SobekCM|http://sourceforge.net/projects/sobekcm/|200
+452|SobekCM|http://dloc.com|200
+1013|SobekCM METS Editor|https://sourceforge.net/projects/metseditor/|200
+1013|SobekCM METS Editor|http://sobekrepository.org/software/mets|200
+1013|SobekCM METS Editor|https://sourceforge.net/projects/metseditor/reviews/|200
+1013|SobekCM METS Editor|http://sobekrepository.org/metseditor/history|200
+294|Spadix software|http://www.spadixbd.com/rafabot/|200
+119|SpinRite|http://www.grc.com/spinrite.htm|200
+96|Ssconvert|https://www.systutorials.com/docs/linux/man/1-ssconvert/|200
+1076|Store|http://coptr.digipres.org/Nice_Opaque_Identifiers_(NOID)|200
+633|Storytracker|http://storytracker.pastpages.org/en/latest/|Bad response - worth checking
+1282|Sumatra PDF|https://www.sumatrapdfreader.org/free-pdf-reader|200
+1282|Sumatra PDF|https://github.com/sumatrapdfreader/sumatrapdf|200
+1306|Switch Audio File Converter|https://www.nch.com.au/switch/index.html|200
+1240|TIFF|https://www.wikidata.org/wiki/Q215106|200
+513|TIFF-Val|http://kost-ceco.ch/cms/index.php?tiff_val_de|200
+1285|TOMES (Transforming Online Mail with Embedded Semantics)|https://github.com/StateArchivesOfNorthCarolina|200
+1285|TOMES (Transforming Online Mail with Embedded Semantics)|https://www.ncdcr.gov/resources/records-management/tomes|200
+461|Tabula|https://tabula.technology/|200
+250|Tar|http://www.gnu.org/software/tar/|200
+403|Taverna|http://openplanetsfoundation.org/blogs/2014-06-24-will-real-lazy-pig-please-scale-quality-assured-large-scale-image-migration|200
+403|Taverna|http://www.taverna.org.uk/introduction/taverna-in-use/|200
+403|Taverna|http://www.taverna.org.uk/|200
+403|Taverna|http://www.taverna.org.uk/documentation/taverna-2-x/tutorials/|200
+403|Taverna|http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html|200
+403|Taverna|http://www.mygrid.org.uk/dev/wiki/display/taverna/User+Manual|403
+403|Taverna|http://www.mygrid.org.uk/dev/issues/secure/Dashboard.jspa|200
+403|Taverna|http://www.taverna.org.uk/documentation/faq/|404
+403|Taverna|http://www.taverna.org.uk/documentation/taverna-2-x/quick-start-guide/|200
+295|Teleport|http://www.tenmax.com/teleport/home.htm|200
+964|TeraCopy|https://www.dpconline.org/handbook/tool-demos/teracopy-demo|200
+964|TeraCopy|http://www.codesector.com/teracopy|200
+964|TeraCopy|https://www.dpconline.org/handbook|200
+213|Tesseract-ocr|https://code.google.com/p/tesseract-ocr/wiki/TrainingTesseract3|200
+213|Tesseract-ocr|https://github.com/tesseract-ocr/tesseract/commits|200
+213|Tesseract-ocr|http://sourceforge.net/projects/xena/?source=navbar|200
+213|Tesseract-ocr|https://drive.google.com/folderview?id=0B7l10Bj_LprhQnpSRkpGMGV2eE0&usp=sharing|200
+213|Tesseract-ocr|http://www.leptonica.com/library-overview.html|200
+213|Tesseract-ocr|http://www.free-ocr.com/faq.html|404
+213|Tesseract-ocr|http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/33418.pdf|200
+213|Tesseract-ocr|http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx|200
+213|Tesseract-ocr|https://github.com/tesseract-ocr/tesseract/blob/master/include/tesseract/baseapi.h|200
+213|Tesseract-ocr|http://www.dcc.ac.uk/resources/external/xena-software-0|404
+213|Tesseract-ocr|https://www.macports.org/|200
+213|Tesseract-ocr|https://github.com/tesseract-ocr/tesseract|200
+213|Tesseract-ocr|http://wiki.opf-labs.org/display/AQuA/Compare+OCR+results+of+the+same+source+material+in+different+formats+(TIFF,+JP2)|200
+213|Tesseract-ocr|http://chris.improbable.org/2014/3/17/content-search-on-a-budget/|200
+213|Tesseract-ocr|https://github.com/tesseract-ocr/tesseract/issues|200
+213|Tesseract-ocr|http://blogs.loc.gov/digitalpreservation/2014/08/making-scanned-content-accessible-using-full-text-search-and-ocr/|200
+213|Tesseract-ocr|https://tesseract-ocr.googlecode.com/svn/trunk/doc/tesseract.1.html|404
+213|Tesseract-ocr|http://www.leptonica.org/|200
+213|Tesseract-ocr|http://research.google.com/pubs/author4479.html|200
+213|Tesseract-ocr|http://www.apache.org/licenses/LICENSE-2.0|200
+213|Tesseract-ocr|http://blog.library.villanova.edu/digitallibrary/2014/02/18/digital-library-upgrade-provides-enhanced-discovery/#sthash.OwCtLlEc.dpuf|200
+213|Tesseract-ocr|https://code.google.com/p/tesseract-ocr/wiki/ReadMe|200
+213|Tesseract-ocr|https://code.google.com/p/tesseract-ocr/wiki/Compiling|200
+213|Tesseract-ocr|http://dl.psnc.pl/2011/01/24/tesseract-3-0-installation-on-ubuntu-10-10-server/|200
+213|Tesseract-ocr|https://code.google.com/p/tesseract-ocr/wiki/3rdParty|200
+213|Tesseract-ocr|https://code.google.com/p/tesseract-ocr/downloads/list|200
+213|Tesseract-ocr|http://leptonica.com/|200
+213|Tesseract-ocr|http://emop.tamu.edu/about|200
+213|Tesseract-ocr|https://www.macports.org/ports.php?by=name&substr=tesseract-|200
+213|Tesseract-ocr|https://code.google.com/p/tesseract-ocr/issues/list|200
+120|TestDisk|http://www.cgsecurity.org/wiki/TestDisk|200
+163|The Carve Path Zero-storage Library and filesystem|http://ocfa.sourceforge.net/libcarvpath/|200
+303|The DeDuplicator (Heritrix add-on module)|http://landsbokasafn.github.io/DeDuplicator/|200
+29|The Open Video Digital Library Toolkit|https://github.com/ovdlt/open-video-digital-library-toolkit|200
+105|The Rename|http://web.archive.org/web/20121127065941/http://www.herve-thouzard.com/the-rename|403
+105|The Rename|https://github.com/xxdoc/THE-Rename|200
+105|The Rename|http://translate.google.co.uk/translate?hl=en&sl=fr&u=http://web.archive.org/web/20121127065941/http://www.herve-thouzard.com/the-rename&ei=4BeVT8LJHoWv8gOh4ejNDA&sa=X&oi=translate&ct=result&resnum=2&ved=0CDUQ7gEwAQ&prev=/search?q%3Dthe%2Brename%26hl%3Den%26rls%3Dcom.microsoft:en-US%26rlz%3D1I7GGLL_en-GBGB381%26prmd%3Dimvnsa|502
+138|The Sleuth Kit|http://www.sleuthkit.org/|200
+269|The aDORe Federation|https://arxiv.org/pdf/0803.4511|200
+1222|Tools Grid|http://digitalpowrr.niu.edu/|200
+74|TrID File Identifier|http://mark0.net/soft-trid-e.html|200
+204|Tree|https://linux.die.net/man/1/tree|200
+204|Tree|http://technet.microsoft.com/en-us/library/cc771130(WS.10).aspx|200
+204|Tree|http://gnuwin32.sourceforge.net/packages/tree.htm|200
+204|Tree|https://formulae.brew.sh/formula/tree#default|200
+110|TreeSize|http://www.jam-software.com/treesize/changes.shtml%7Chttp://www.jam-software.com/treesize/changes.shtml|404
+110|TreeSize|http://www.jam-software.com/treesize/|200
+110|TreeSize|http://wiki.opf-labs.org/treesize/file_search.shtml|404
+110|TreeSize|https://www.jam-software.de/customers/downloadTrial.php?article_no=101&language=EN&PHPSESSID=trcn073vd9769f1jtvmgv8nd76|200
+297|TubeKit|http://www.tubekit.org/download.php|500
+404|Tufts Submission-Agreement Builder Tool|https://github.com/TuftsUniversity/sabt|200
+404|Tufts Submission-Agreement Builder Tool|http://github.com/TuftsUniversity/sabt/commits|200
+404|Tufts Submission-Agreement Builder Tool|http://www.gnu.org/licenses/agpl.html|200
+404|Tufts Submission-Agreement Builder Tool|http://sites.tufts.edu/dca/about-us/research-initiatives/taper-tufts-accessioning-program-for-electronic-records/deliverables/|200
+946|UKWA Access API|https://github.com/ukwa/ukwa-access-api|200
+205|USGS Formal metadata: information and software|http://geology.usgs.gov/tools/metadata/|200
+1294|UniConvertor|https://github.com/sk1project/uniconvertor|200
+1294|UniConvertor|https://sk1project.net/uc2/|200
+121|Unrm|http://freshmeat.net/projects/unrm/|200
+983|Unstoppable Copier|https://www.roadkil.net/program.php?ProgramID=29|200
+20|Using the COPTR data feed|http://coptr.digipres.org/api.php?action=query&list=categorymembers&cmtitle=Category:Fixity&cmtype=page&cmlimit=500&format=xml|200
+20|Using the COPTR data feed|https://www.semantic-mediawiki.org|200
+20|Using the COPTR data feed|https://www.semantic-mediawiki.org/wiki/Help:Displaying_information|200
+20|Using the COPTR data feed|https://www.semantic-mediawiki.org/wiki/Help:API|200
+20|Using the COPTR data feed|https://www.semantic-mediawiki.org/wiki/Help:Selecting_pages|200
+20|Using the COPTR data feed|https://www.mediawiki.org/wiki/API:Main_page|200
+20|Using the COPTR data feed|https://www.mediawiki.org/wiki/API:Main_page#The_action|200
+20|Using the COPTR data feed|https://www.mediawiki.org/wiki/API:Recentchanges|200
+20|Using the COPTR data feed|https://www.mediawiki.org/wiki/API:Data_formats|200
+20|Using the COPTR data feed|https://www.mediawiki.org/wiki/API:Categorymembers|200
+20|Using the COPTR data feed|http://coptr.digipres.org/api.php|200
+20|Using the COPTR data feed|https://www.mediawiki.org/wiki/API:Lists|200
+20|Using the COPTR data feed|http://coptr.digipres.org/api.php?action=query&list=categorymembers&cmtitle=Category:Function&cmtype=subcat&cmlimit=500&format=xml|200
+20|Using the COPTR data feed|http://coptr.digipres.org/api.php?action=query&list=recentchanges&format=xml&rclimit=500&rctype=new&rcprop=title%7Cids%7Csizes%7Cflags%7Cuser%7Ctimestamp|200
+20|Using the COPTR data feed|https://www.wikidata.org|200
+20|Using the COPTR data feed|http://coptr.digipres.org/backup-dumps/|200
+610|VLC Media Player|https://groups.google.com/forum/#!topic/digital-curation/k-B7g80lOfQ|200
+610|VLC Media Player|http://siarchives.si.edu/blog/digital-video-preservation-identifying-containers-and-codecs|200
+610|VLC Media Player|http://prezi.com/yvwj9nlfmmqt/digital-preservation-tools/|200
+610|VLC Media Player|http://www.carli.illinois.edu/sites/files/digital_collections/documentation/guidelines_for_audio.pdf|200
+610|VLC Media Player|http://www.videolan.org/vlc/|200
+610|VLC Media Player|http://en.wikipedia.org/wiki/Libavcodec|200
+60|VMware Player|http://www.vmware.com/products/player/|403
+984|VRenamer|https://vrenamer.com/|200
+965|VeraCrypt|https://www.veracrypt.fr/|200
+965|VeraCrypt|https://www.veracrypt.fr/en/FAQ.html|200
+704|VeraPDF|http://www.preforma-project.eu/|200
+704|VeraPDF|http://www.verapdf.org|200
+704|VeraPDF|http://www.pdfa.org/|200
+704|VeraPDF|https://creativecommons.org/licenses/by/4.0/|200
+704|VeraPDF|https://www.mozilla.org/en-US/MPL/2.0/|200
+704|VeraPDF|http://openpreservation.org/|200
+704|VeraPDF|http://www.gnu.org/licenses/quick-guide-gplv3.html|200
+704|VeraPDF|https://github.com/verapdf|200
+1010|Veridian|https://veridiansoftware.com/services/#veridiansoftware|200
+59|VirtualBox|https://www.virtualbox.org/wiki/Changelog|Bad response - worth checking
+59|VirtualBox|http://www.infoworld.com/article/2615128/virtualization/review--vmware-workstation-9-vs--virtualbox-4-2.html|200
+59|VirtualBox|https://www.virtualbox.org/wiki/Community|200
+59|VirtualBox|http://dlc.sun.com.edgesuite.net/virtualbox/4.3.16/UserManual.pdf|400
+59|VirtualBox|https://forums.virtualbox.org/|200
+59|VirtualBox|https://www.virtualbox.org/wiki/Downloads|200
+59|VirtualBox|http://www.pcworld.com/article/2058329/review-virtualbox-4-3-goes-touchy-feely-for-windows-8-virtualization.html|200
+59|VirtualBox|https://www.virtualbox.org/wiki/Guest_OSes|200
+59|VirtualBox|https://www.virtualbox.org/wiki/Technical_documentation|200
+59|VirtualBox|http://www.softpedia.com/reviews/linux/VirtualBox-Review-395942.shtml|200
+59|VirtualBox|http://www.virtualbox.org/|200
+174|Virtual CloneDrive|https://www.elby.ch/en/products/vcd.html|200
+906|Vitam|https://github.com/ProgrammeVitam/vitam|200
+906|Vitam|http://www.programmevitam.fr/pages/ressources/|200
+906|Vitam|http://www.programmevitam.fr/pages/english/pres_english/|200
+31|Voyeur|https://voyant-tools.org/|200
+275|W3C Markup Validation Service|http://validator.w3.org/|200
+1244|WARC|https://www.wikidata.org/wiki/Q7978505|200
+632|WARCreate|http://github.com/machawk1/warcreate/commits|200
+632|WARCreate|http://ws-dl.blogspot.com/2013/07/2013-07-10-warcreate-and-wail-warc.html|200
+632|WARCreate|https://warcreate.com|200
+632|WARCreate|https://github.com/machawk1/warcreate|200
+300|WAS (Web Archiving Service)|http://webarchives.cdlib.org/|200
+301|WAXToolbar|http://archive-access.sourceforge.net/projects/waxtoolbar/|200
+206|WCT (Web Curator Tool)|https://webcuratortool.org/|200
+206|WCT (Web Curator Tool)|http://webcurator.sourceforge.net/|404
+206|WCT (Web Curator Tool)|http://www.apache.org/licenses/LICENSE-2.0|200
+206|WCT (Web Curator Tool)|http://www.ariadne.ac.uk/issue50/beresford/|200
+206|WCT (Web Curator Tool)|http://webcurator.sourceforge.net/docs/1.5.2/Web%20Curator%20Tool%20User%20Manual%20(WCT%201.5.2).pdf|404
+206|WCT (Web Curator Tool)|http://github.com/DIA-NZ/webcurator/commits|200
+302|WERA (Web ARchive Access)|http://archive-access.sourceforge.net/projects/wera/|200
+97|WMDecode|http://www.biblet.freeserve.co.uk/|Bad response - worth checking
+1300|WMF|https://www.wikidata.org/wiki/Q1072083|200
+716|Warc-proxy|https://github.com/alard/warc-proxy|200
+298|WarcManager|https://wiki.umiacs.umd.edu/adapt/index.php/WarcManager|200
+549|Warctools|https://github.com/internetarchive/warc|200
+549|Warctools|https://pypi.python.org/pypi/warctools/|200
+549|Warctools|https://twitter.com/tef|200
+549|Warctools|https://pypi.python.org/pypi/hanzo-warc-tools|200
+549|Warctools|https://bitbucket.org/hanzo/warc-tools|404
+549|Warctools|https://github.com/internetarchive/warctools/|200
+549|Warctools|https://pypi.python.org/pypi/warc/|200
+299|Warrick|https://github.com/oduwsdl/warrick|200
+299|Warrick|http://mementoweb.org/about/|200
+299|Warrick|http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html|200
+299|Warrick|https://groups.google.com/forum/#!topic/warrickrecovery/|200
+299|Warrick|http://www.harding.edu/fmccown/|200
+299|Warrick|http://github.com/oduwsdl/warrick/commits|200
+299|Warrick|http://www.justinfbrunelle.com/|200
+27|Wayback Machine|http://netpreserve.org/open-wayback|404
+405|WebCite|http://www.webcitation.org/doc/WebCiteBestPracticesGuide.pdf|200
+405|WebCite|http://creativecommons.org/licenses/by-nc-sa/2.5/|200
+405|WebCite|http://www.webcitation.org/|200
+310|WebShot|http://www.websitescreenshots.com/|200
+526|Web Archive Discovery|http://github.com/ukwa/webarchive-discovery|200
+526|Web Archive Discovery|https://github.com/archivesunleashed/warclight|200
+526|Web Archive Discovery|http://blogs.bl.uk/webarchive/2017/06/revitalising-the-uk-web-archive.html|200
+526|Web Archive Discovery|https://twitter.com/NetPreserve|200
+526|Web Archive Discovery|http://www.webarchive.org.uk/|200
+526|Web Archive Discovery|https://twitter.com/UKWebArchive|200
+526|Web Archive Discovery|https://github.com/ukwa/webarchive-discovery/wiki/Features|200
+526|Web Archive Discovery|https://github.com/ukwa/webarchive-discovery|200
+1140|Web Crawl|http://archiveteam.org/index.php?title=The_WARC_Ecosystem|200
+1027|Web Recorder Player|https://github.com/ikreymer/webarchiveplayer|200
+41|Web Scraper Plus+|http://www.velocityscape.com/Products/WebScraperPlus.aspx|200
+309|Webkit2png|http://www.paulhammond.org/webkit2png/|200
+744|Webrecorder|https://github.com/webrecorder/webrecorderplayer-electron|200
+744|Webrecorder|https://webrecorder.io/|200
+744|Webrecorder|https://anoldhanddigital.wordpress.com/2017/08/09/happy-accidents-adventures-in-web-preservation/|200
+744|Webrecorder|https://github.com/webrecorder/webrecorder|200
+744|Webrecorder|https://rhizome.org/|200
+744|Webrecorder|http://github.com/webrecorder/webrecorder/commits|200
+16|Why? What? Who? The COPTR FAQ|http://www.digipres.org/|200
+16|Why? What? Who? The COPTR FAQ|http://www.netwerkdigitaalerfgoed.nl|200
+16|Why? What? Who? The COPTR FAQ|http://openpreservation.org//|200
+16|Why? What? Who? The COPTR FAQ|http://www.dcc.ac.uk|200
+16|Why? What? Who? The COPTR FAQ|https://ndsa.org|200
+16|Why? What? Who? The COPTR FAQ|http://digitalpowrr.niu.edu/|200
+16|Why? What? Who? The COPTR FAQ|http://www.educopia.org/events/ANADPII|403
+16|Why? What? Who? The COPTR FAQ|http://dpconline.org/|200
+16|Why? What? Who? The COPTR FAQ|http://openpreservation.org/|200
+16|Why? What? Who? The COPTR FAQ|https://www.langzeitarchivierung.de/Webs/nestor/EN/nestor/nestor_node.html|200
+16|Why? What? Who? The COPTR FAQ|http://digitalcurationexchange.org/|Bad response - worth checking
+166|WinHex|http://www.x-ways.net/winhex/|200
+985|WinMerge|https://winmerge.org/?lang=en|200
+251|WinZip|http://www.winzip.com/|200
+165|Windows IR/CF Tools|https://sourceforge.net/projects/windowsir/|200
+61|Windows Virtual PC|http://www.microsoft.com/windows/virtual-pc/default.aspx|200
+62|Wine|http://www.winehq.org/|200
+571|Wish list of tools to add to COPTR|https://www.openhub.net/p/officeotron|200
+571|Wish list of tools to add to COPTR|https://python-docx.readthedocs.org/en/latest/|200
+571|Wish list of tools to add to COPTR|http://www.documentliberation.org/projects/|200
+571|Wish list of tools to add to COPTR|https://hashcat.net/forum/thread-3818.html|200
+571|Wish list of tools to add to COPTR|https://hashcat.net/oclhashcat/|200
+571|Wish list of tools to add to COPTR|http://lifehacker.com/5992991/infogram-generates-beautiful-infographics-from-custom-data|200
+571|Wish list of tools to add to COPTR|http://blogs.loc.gov/digitalpreservation/2014/10/new-season-new-viewshare/|200
+571|Wish list of tools to add to COPTR|http://ooxmlvalidator.codeplex.com/|200
+571|Wish list of tools to add to COPTR|http://packageexplorer.codeplex.com/|200
+571|Wish list of tools to add to COPTR|http://wiki.opf-labs.org/display/CDP/Home|200
+571|Wish list of tools to add to COPTR|http://johnmacfarlane.net/pandoc/index.html|200
+571|Wish list of tools to add to COPTR|https://github.com/kieranjol/IFIscripts|200
+571|Wish list of tools to add to COPTR|http://4cproject.eu/community-resources/related-projects|401
+571|Wish list of tools to add to COPTR|http://verapdf.org/home/|200
+571|Wish list of tools to add to COPTR|http://textract.readthedocs.org/en/latest/#|200
+571|Wish list of tools to add to COPTR|http://sox.sourceforge.net/|200
+571|Wish list of tools to add to COPTR|http://coptr.digipres.org/Workflow:Flashback_project_-_optical_media_imaging_workflow|200
+571|Wish list of tools to add to COPTR|http://mpc-hc.org/|200
+571|Wish list of tools to add to COPTR|http://blogs.msdn.com/b/ericwhite/archive/2010/03/04/validate-open-xml-documents-using-the-open-xml-sdk-2-0.aspx|403
+571|Wish list of tools to add to COPTR|http://www.squared5.com/|200
+571|Wish list of tools to add to COPTR|https://github.com/RetroFloppy/transformenator|200
+571|Wish list of tools to add to COPTR|http://viewshare.org/|200
+571|Wish list of tools to add to COPTR|https://groups.google.com/d/msg/digital-curation/k-B7g80lOfQ/45oXNw-CUrkJ|200
+571|Wish list of tools to add to COPTR|http://wiki.dpconline.org/index.php?title=Institutional_readiness|200
+571|Wish list of tools to add to COPTR|https://github.com/F-Secure/Sulo|200
+571|Wish list of tools to add to COPTR|http://www.microsoft.com/en-us/download/details.aspx?id=5124|404
+571|Wish list of tools to add to COPTR|http://wiki.dpconline.org/index.php?title=Digital_preservation_risks|200
+571|Wish list of tools to add to COPTR|http://www.mplayerhq.hu/|200
+571|Wish list of tools to add to COPTR|http://wiki.dpconline.org/index.php?title=Benefits|200
+1286|Wiztree|https://diskanalyzer.com/download|200
+189|WordHoard|http://wordhoard.northwestern.edu|200
+535|WxHexEditor|http://www.wxhexeditor.org/home.php|404
+406|XArch|http://homepages.inf.ed.ac.uk/hmueller/|404
+406|XArch|http://www.ed.ac.uk/schools-departments/informatics/|200
+406|XArch|http://xarch.sourceforge.net/|200
+1201|XMLstarlet|https://sourceforge.net/projects/xmlstar/|200
+972|XMediaRecode|https://www.xmedia-recode.de/en/index.php|200
+51|XPAT|http://www.dlxs.org/products/xpat.html|200
+68|XXCopy|http://www.xxcopy.com/index.htm|200
+67|Xcopy|http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/xcopy.mspx|403
+33|XcorrSound|http://wiki.opf-labs.org/display/SP/SO4+Audio+mp3+to+wav+Migration+and+QA+Workflow|200
+33|XcorrSound|https://github.com/openplanets/scape-xcorrsound|200
+63|Xen|http://www.xen.org/|200
+98|Xena|http://xena.sourceforge.net/download.php|404
+98|Xena|http://naa.gov.au/|200
+98|Xena|http://xena.sourceforge.net/|200
+918|Xenu's Link Sleuth|http://home.snafu.de/tilman/xenulink.html|200
+1308|XnConvert|https://www.xnview.com/en/image_formats/|200
+1308|XnConvert|https://www.xnview.com/en/xnconvert/|200
+194|Xpdf|http://www.xpdfreader.com/|200
+643|Yara|https://plusvic.github.io/yara/|200
+122|ZAR (Zero Assumption Recovery)|http://www.z-a-recovery.com/|200
